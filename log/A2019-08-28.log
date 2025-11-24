@@ -1,0 +1,142 @@
+PEDIDOSONLINE.exe: 00001108: 08:22:13 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00001108: 08:22:13 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00001108: 08:22:13 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00001108: 08:22:13 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00001108: 08:22:14 [TUniServerModule]:Cache Folder Erased. <11> Files deleted.
+PEDIDOSONLINE.exe: 00001108: 08:22:21 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00001108: 08:22:22 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00000844: 08:22:28 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 0000082C: 08:22:31 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000011F8: 08:23:25 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 00000C18: 08:23:25 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 00000894: 08:26:22 [127.0.0.1]:EVariantTypeCastError : Could not convert variant of type (Null) into type (Double) : Addr: $00437C18
+PEDIDOSONLINE.exe: 00000B7C: 08:27:31 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00000B7C: 08:27:31 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00000B7C: 08:27:31 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00000B7C: 08:27:31 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00000B7C: 08:27:32 [TUniServerModule]:Cache Folder Erased. <31> Files deleted.
+PEDIDOSONLINE.exe: 00000B7C: 08:27:32 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00000B7C: 08:27:33 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 000012CC: 08:27:35 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000AC4: 08:27:37 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000554: 08:29:30 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 000009D4: 08:29:30 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 000003A0: 08:34:21 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 000003A0: 08:34:21 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 000003A0: 08:34:21 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 000003A0: 08:34:21 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 000003A0: 08:34:21 [TUniServerModule]:Cache Folder Erased. <30> Files deleted.
+PEDIDOSONLINE.exe: 000003A0: 08:34:26 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 000003A0: 08:34:27 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00001100: 08:34:31 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000012D4: 08:34:33 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000013C8: 08:34:53 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 000005F8: 08:34:54 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 000011F8: 08:37:30 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 000011F8: 08:37:30 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 000011F8: 08:37:30 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 000011F8: 08:37:30 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 000011F8: 08:37:30 [TUniServerModule]:Cache Folder Erased. <31> Files deleted.
+PEDIDOSONLINE.exe: 000011F8: 08:37:32 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 000011F8: 08:37:33 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00000CDC: 08:37:38 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000144: 08:37:40 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000B50: 08:37:59 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 000012E0: 08:38:00 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 00001320: 08:56:22 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00001320: 08:56:22 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00001320: 08:56:22 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00001320: 08:56:22 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00001320: 08:56:23 [TUniServerModule]:Cache Folder Erased. <39> Files deleted.
+PEDIDOSONLINE.exe: 00001320: 08:56:26 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00001320: 08:56:26 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00000B50: 08:56:30 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000D00: 08:56:32 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000D3C: 08:57:08 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 00000B50: 08:57:08 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 000013C8: 09:00:51 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 000013C8: 09:00:51 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 000013C8: 09:00:51 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 000013C8: 09:00:51 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 000013C8: 09:00:51 [TUniServerModule]:Cache Folder Erased. <33> Files deleted.
+PEDIDOSONLINE.exe: 000013C8: 09:00:53 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 000013C8: 09:00:54 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00000FDC: 09:01:00 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000D48: 09:01:02 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 0000030C: 09:05:46 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 0000030C: 09:05:46 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 0000030C: 09:05:46 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 0000030C: 09:05:46 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 0000030C: 09:05:46 [TUniServerModule]:Cache Folder Erased. <13> Files deleted.
+PEDIDOSONLINE.exe: 0000030C: 09:05:48 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 0000030C: 09:05:49 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00000188: 09:05:53 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000012E4: 09:05:54 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000B28: 09:07:50 []:EDatabaseError : cdsArquivos: Dataset not in edit or insert mode : Addr: $0067C16E
+PEDIDOSONLINE.exe: 000013B8: 09:11:41 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 000013B8: 09:11:41 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 000013B8: 09:11:41 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 000013B8: 09:11:41 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 000013B8: 09:11:42 [TUniServerModule]:Cache Folder Erased. <13> Files deleted.
+PEDIDOSONLINE.exe: 000013B8: 09:11:46 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 000013B8: 09:11:46 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00001014: 09:11:50 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 0000020C: 09:11:51 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000AF4: 09:15:34 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00000AF4: 09:15:34 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00000AF4: 09:15:34 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00000AF4: 09:15:34 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00000AF4: 09:15:34 [TUniServerModule]:Cache Folder Erased. <13> Files deleted.
+PEDIDOSONLINE.exe: 00000AF4: 09:15:37 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00000AF4: 09:15:37 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 000005E8: 09:15:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000ECC: 09:15:42 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000D34: 09:15:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 00000394: 09:15:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 00000E24: 09:19:48 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00000E24: 09:19:48 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00000E24: 09:19:48 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00000E24: 09:19:48 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00000E24: 09:19:48 [TUniServerModule]:Cache Folder Erased. <26> Files deleted.
+PEDIDOSONLINE.exe: 00000E24: 09:19:51 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00000E24: 09:19:51 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00000898: 09:19:55 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000A00: 09:19:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000011A4: 09:27:41 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 000011A4: 09:27:41 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 000011A4: 09:27:41 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 000011A4: 09:27:41 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 000011A4: 09:27:41 [TUniServerModule]:Cache Folder Erased. <15> Files deleted.
+PEDIDOSONLINE.exe: 000011A4: 09:27:42 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 000011A4: 09:27:42 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 000012A4: 09:27:46 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000E70: 09:27:47 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000013A4: 09:33:41 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 000013A4: 09:33:41 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 000013A4: 09:33:41 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 000013A4: 09:33:41 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 000013A4: 09:33:41 [TUniServerModule]:Cache Folder Erased. <6> Files deleted.
+PEDIDOSONLINE.exe: 000013A4: 09:33:41 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 000013A4: 09:33:42 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 0000073C: 09:33:46 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000010E0: 09:33:48 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000013CC: 09:39:10 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 000013CC: 09:39:10 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 000013CC: 09:39:10 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 000013CC: 09:39:10 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 000013CC: 09:39:10 [TUniServerModule]:Cache Folder Erased. <6> Files deleted.
+PEDIDOSONLINE.exe: 000013CC: 09:39:12 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 000013CC: 09:39:12 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 0000043C: 09:39:16 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000C70: 09:39:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000009AC: 09:39:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 00001238: 09:39:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 000012F0: 09:43:13 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 000012F0: 09:43:13 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 000012F0: 09:43:13 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 000012F0: 09:43:13 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 000012F0: 09:43:13 [TUniServerModule]:Cache Folder Erased. <11> Files deleted.
+PEDIDOSONLINE.exe: 000012F0: 09:43:13 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 000012F0: 09:43:13 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 000011FC: 09:43:16 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000388: 09:43:18 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css

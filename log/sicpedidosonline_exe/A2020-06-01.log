@@ -1,0 +1,16 @@
+SicPedidosOnline.exe: 0000017C: 08:37:31 []:>--------------------------------------------------------------<
+SicPedidosOnline.exe: 0000017C: 08:37:32 [TUniServerModule]:Server First Init.
+SicPedidosOnline.exe: 0000017C: 08:37:32 [TUniServerModule]:Debug Mode = ON
+SicPedidosOnline.exe: 0000017C: 08:37:32 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+SicPedidosOnline.exe: 0000017C: 08:37:32 [TUniServerModule]:HTTP Server Started on Port: 8077
+SicPedidosOnline.exe: 000017B8: 08:37:34 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 000048FC: 08:37:37 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00004E24: 15:41:44 []:>--------------------------------------------------------------<
+SicPedidosOnline.exe: 00004E24: 15:41:44 [TUniServerModule]:Server First Init.
+SicPedidosOnline.exe: 00004E24: 15:41:44 [TUniServerModule]:Debug Mode = ON
+SicPedidosOnline.exe: 00004E24: 15:41:44 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+SicPedidosOnline.exe: 00004E24: 15:41:44 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+SicPedidosOnline.exe: 00004E24: 15:41:44 [TUniServerModule]:HTTP Server Started on Port: 8077
+SicPedidosOnline.exe: 00001090: 15:41:45 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00005FBC: 15:41:47 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00002D60: 15:49:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\favicon.ico

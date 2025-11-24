@@ -1,0 +1,95 @@
+PEDIDOSONLINE.exe: 00003D28: 09:39:42 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00003D28: 09:39:42 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00003D28: 09:39:43 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00003D28: 09:39:43 [TUniServerModule]:Global Cache Folder Erased. <27> Files deleted.
+PEDIDOSONLINE.exe: 00003D28: 09:39:43 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PEDIDOSONLINE.exe: 00003D28: 09:39:43 [TUniServerModule]:HTTP Server Started on Port: 8077
+PEDIDOSONLINE.exe: 00002C10: 09:39:51 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00002778: 09:39:54 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000548: 09:43:00 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 00002A04: 09:43:00 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 0000074C: 09:45:40 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\favicon.ico
+PEDIDOSONLINE.exe: 00000648: 12:38:27 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00000648: 12:38:27 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00000648: 12:38:27 [TUniServerModule]:Global Cache Folder Erased. <24> Files deleted.
+PEDIDOSONLINE.exe: 00000648: 12:38:27 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PEDIDOSONLINE.exe: 00000648: 12:38:27 [TUniServerModule]:HTTP Server Started on Port: 8077
+PEDIDOSONLINE.exe: 00000340: 12:38:31 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000042FC: 12:38:34 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000594: 12:44:05 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 00003B98: 12:44:05 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 000046FC: 13:33:19 [127.0.0.1]:EIBInterBaseError : Unable to complete network request to host "35.173.243.125".
+Error reading data from the connection. : Addr: $00985D9F
+PEDIDOSONLINE.exe: 000046FC: 13:33:31 [Unable to complete network request to host "35.173.243.125".
+Error writing data to the connection.-127.0.0.1]:EIBInterBaseError : Unable to complete network request to host "35.173.243.125".
+Error writing data to the connection. : Addr: $00985D9F
+PEDIDOSONLINE.exe: 000046FC: 13:33:31 [127.0.0.1]:EIBInterBaseError : Unable to complete network request to host "35.173.243.125".
+Error writing data to the connection. : Addr: $00985D9F
+PEDIDOSONLINE.exe: 000046FC: 13:33:35 [127.0.0.1]:EIBInterBaseError : Unable to complete network request to host "35.173.243.125".
+Error writing data to the connection. : Addr: $00985D9F
+PEDIDOSONLINE.exe: 00003D1C: 13:33:42 [127.0.0.1]:Exception raised while destroying session: Unable to complete network request to host "35.173.243.125".
+Error writing data to the connection.
+PEDIDOSONLINE.exe: 00003D1C: 13:33:42 [127.0.0.1]:EIBInterBaseError : Unable to complete network request to host "35.173.243.125".
+Error writing data to the connection. : Addr: $00985D9F
+PEDIDOSONLINE.exe: 00000648: 13:33:45 [TUniServerModule]:Shutting Down Server.
+PEDIDOSONLINE.exe: 00000648: 13:33:45 [TUniServerModule]:Stopping HTTP Server.
+PEDIDOSONLINE.exe: 00000648: 13:33:46 [TUniServerModule]:HTTP Server Stopped.
+PEDIDOSONLINE.exe: 00000648: 13:33:46 [TUniGUISessionManager]:Terminating Session manager.
+PEDIDOSONLINE.exe: 00000648: 13:33:46 [TUniGUISessionManager]:Stopping Cache Eraser...
+PEDIDOSONLINE.exe: 00000648: 13:33:46 [TUniGUISessionManager]:Cache Eraser Stopped.
+PEDIDOSONLINE.exe: 00000648: 13:33:46 [TUniGUISessionManager]:Destroying Worker Threads.
+PEDIDOSONLINE.exe: 00000648: 13:33:46 [TUniGUISessionManager]:Session manager terminated.
+PEDIDOSONLINE.exe: 00000648: 13:33:46 [TUniServerModule]:Server Shutdown Completed.
+PEDIDOSONLINE.exe: 00000648: 13:33:46 []:<-------------------------------------------------------------->
+PEDIDOSONLINE.exe: 00000648: 13:33:46 [Terminated]:Exit Code: 0
+PEDIDOSONLINE.exe: 00004248: 13:43:57 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00004248: 13:43:57 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00004248: 13:43:57 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PEDIDOSONLINE.exe: 00004248: 13:43:57 [TUniServerModule]:HTTP Server Started on Port: 8077
+PEDIDOSONLINE.exe: 00003440: 13:44:01 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000044A4: 13:44:02 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00003788: 13:45:26 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 000041F8: 13:45:26 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 00000E18: 13:45:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\favicon.ico
+PEDIDOSONLINE.exe: 00004248: 13:46:14 [TUniServerModule]:Shutting Down Server.
+PEDIDOSONLINE.exe: 00004248: 13:46:14 [TUniServerModule]:Stopping HTTP Server.
+PEDIDOSONLINE.exe: 00004248: 13:46:15 [TUniServerModule]:HTTP Server Stopped.
+PEDIDOSONLINE.exe: 00004248: 13:46:15 [TUniGUISessionManager]:Terminating Session manager.
+PEDIDOSONLINE.exe: 00004248: 13:46:15 [TUniGUISessionManager]:Stopping Cache Eraser...
+PEDIDOSONLINE.exe: 00004248: 13:46:15 [TUniGUISessionManager]:Cache Eraser Stopped.
+PEDIDOSONLINE.exe: 00004248: 13:46:15 [TUniGUISessionManager]:Destroying Worker Threads.
+PEDIDOSONLINE.exe: 00004248: 13:46:15 [TUniGUISessionManager]:Session manager terminated.
+PEDIDOSONLINE.exe: 00004248: 13:46:15 [TUniServerModule]:Server Shutdown Completed.
+PEDIDOSONLINE.exe: 00004248: 13:46:15 []:<-------------------------------------------------------------->
+PEDIDOSONLINE.exe: 00004248: 13:46:15 [Terminated]:Exit Code: 0
+PEDIDOSONLINE.exe: 00002BEC: 13:51:26 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00002BEC: 13:51:26 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00002BEC: 13:51:26 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PEDIDOSONLINE.exe: 00002BEC: 13:51:26 [TUniServerModule]:HTTP Server Started on Port: 8077
+PEDIDOSONLINE.exe: 00001118: 13:51:30 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000047AC: 13:51:32 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000478: 13:52:49 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 0000383C: 13:52:49 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 00002BEC: 14:05:46 [TUniServerModule]:Shutting Down Server.
+PEDIDOSONLINE.exe: 00002BEC: 14:05:46 [TUniServerModule]:Stopping HTTP Server.
+PEDIDOSONLINE.exe: 00002BEC: 14:05:47 [TUniServerModule]:HTTP Server Stopped.
+PEDIDOSONLINE.exe: 00002BEC: 14:05:47 [TUniGUISessionManager]:Terminating Session manager.
+PEDIDOSONLINE.exe: 00002BEC: 14:05:47 [TUniGUISessionManager]:Stopping Cache Eraser...
+PEDIDOSONLINE.exe: 00002BEC: 14:05:47 [TUniGUISessionManager]:Cache Eraser Stopped.
+PEDIDOSONLINE.exe: 00002BEC: 14:05:47 [TUniGUISessionManager]:Destroying Worker Threads.
+PEDIDOSONLINE.exe: 00002BEC: 14:05:47 [TUniGUISessionManager]:Session manager terminated.
+PEDIDOSONLINE.exe: 00002BEC: 14:05:47 [TUniServerModule]:Server Shutdown Completed.
+PEDIDOSONLINE.exe: 00002BEC: 14:05:47 []:<-------------------------------------------------------------->
+PEDIDOSONLINE.exe: 00002BEC: 14:05:47 [Terminated]:Exit Code: 0
+PEDIDOSONLINE.exe: 00001A10: 14:06:37 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00001A10: 14:06:37 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00001A10: 14:06:38 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PEDIDOSONLINE.exe: 00001A10: 14:06:38 [TUniServerModule]:HTTP Server Started on Port: 8077
+PEDIDOSONLINE.exe: 000006A8: 14:06:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00004118: 14:06:42 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00001A10: 15:02:47 [TUniServerModule]:Shutting Down Server.
+PEDIDOSONLINE.exe: 00001A10: 15:02:47 [TUniServerModule]:Stopping HTTP Server.
+PEDIDOSONLINE.exe: 00001A10: 15:02:47 [TUniServerModule]:HTTP Server Stopped.
+PEDIDOSONLINE.exe: 00001A10: 15:02:47 [TUniGUISessionManager]:Terminating Session manager.
+PEDIDOSONLINE.exe: 00001A10: 15:02:47 [TUniGUISessionManager]:Stopping Cache Eraser...
+PEDIDOSONLINE.exe: 00001A10: 15:02:47 [TUniGUISessionManager]:Cache Eraser Stopped.

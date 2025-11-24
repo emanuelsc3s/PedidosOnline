@@ -1,0 +1,12 @@
+PEDIDOSONLINE.exe: 00000CB8: 16:09:19 [127.0.0.1]:Failed Sequence Recovery: SeqId: 78, Event: callback
+PEDIDOSONLINE.exe: 00000CB8: 16:09:19 [127.0.0.1]:Sequence sent from cache:  SeqId: 78
+PEDIDOSONLINE.exe: 00000CB8: 16:09:19 [127.0.0.1]:Processed: Id: 78, Evt: callback, [qBKrIOOSGF1046DB91C]
+PEDIDOSONLINE.exe: 0000116C: 16:09:25 [127.0.0.1]:Failed Sequence Recovery: SeqId: 78, Event: callback
+PEDIDOSONLINE.exe: 0000116C: 16:09:25 [127.0.0.1]:Sequence sent from cache:  SeqId: 78
+PEDIDOSONLINE.exe: 0000116C: 16:09:25 [127.0.0.1]:Processed: Id: 78, Evt: callback, [qBKrIOOSGF1046DB91C]
+PEDIDOSONLINE.exe: 00000FE0: 16:21:26 [127.0.0.1]:Failed Sequence Recovery: SeqId: 78, Event: callback
+PEDIDOSONLINE.exe: 00000CF0: 16:34:59 [127.0.0.1]:Failed Sequence Recovery: SeqId: 75, Event: callback
+PEDIDOSONLINE.exe: 00000908: 16:34:59 [127.0.0.1]:Failed Sequence Recovery: SeqId: 75, Event: callback
+PEDIDOSONLINE.exe: 000000C4: 16:34:59 [127.0.0.1]:Failed Sequence Recovery: SeqId: 75, Event: callback
+PEDIDOSONLINE.exe: 00000D8C: 16:35:00 [127.0.0.1]:Failed Sequence Recovery: SeqId: 75, Event: callback
+PEDIDOSONLINE.exe: 00001260: 16:35:00 [127.0.0.1]:Failed Sequence Recovery: SeqId: 75, Event: callback

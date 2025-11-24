@@ -1,0 +1,10 @@
+PEDIDOSONLINE.exe: 00003F34: 09:43:16 [127.0.0.1]:Sequence Error Timeout : TDiff:14625, Event: move, Expected: 18, Received: 19, [jfd7jzL9ku105C7B0A3]
+PEDIDOSONLINE.exe: 00003F34: 09:43:16 [127.0.0.1]:Failed Sequence Reset to: 18
+PEDIDOSONLINE.exe: 00000BC4: 09:43:16 [127.0.0.1]:Sequence Error Timeout : TDiff:14922, Event: maximize, Expected: 19, Received: 20, [jfd7jzL9ku105C7B0A3]
+PEDIDOSONLINE.exe: 00000BC4: 09:43:16 [127.0.0.1]:Failed Sequence Reset to: 19
+PEDIDOSONLINE.exe: 000003A8: 09:43:16 [127.0.0.1]:Failed Sequence Recovery: SeqId: 19, Event: move
+PEDIDOSONLINE.exe: 000003A8: 09:43:16 [127.0.0.1]:Processing: Id: 19, Evt: move
+PEDIDOSONLINE.exe: 000003A8: 09:43:16 [127.0.0.1]:Processed: Id: 19, Evt: move, [jfd7jzL9ku105C7B0A3]
+PEDIDOSONLINE.exe: 0000381C: 09:43:16 [127.0.0.1]:Failed Sequence Recovery: SeqId: 20, Event: maximize
+PEDIDOSONLINE.exe: 0000381C: 09:43:16 [127.0.0.1]:Processing: Id: 20, Evt: maximize
+PEDIDOSONLINE.exe: 0000381C: 09:43:16 [127.0.0.1]:Processed: Id: 20, Evt: maximize, [jfd7jzL9ku105C7B0A3]

@@ -1,0 +1,11 @@
+PEDIDOSONLINE.exe: 000009D0: 09:59:49 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 000009D0: 09:59:49 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 000009D0: 09:59:49 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 000009D0: 09:59:49 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 000009D0: 09:59:49 [TUniServerModule]:Cache Folder Erased. <6> Files deleted.
+PEDIDOSONLINE.exe: 000009D0: 09:59:53 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 000009D0: 09:59:53 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00001244: 09:59:59 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000016AC: 10:00:03 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000005BC: 10:04:34 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000000C8: 10:04:37 [HandleFileRequest[127.0.0.1]]:Access denied: bootstrap.css.map.

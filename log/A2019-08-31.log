@@ -1,0 +1,22 @@
+PEDIDOSONLINE.exe: 000010E0: 10:36:14 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 000010E0: 10:36:14 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 000010E0: 10:36:14 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 000010E0: 10:36:14 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 000010E0: 10:36:14 [TUniServerModule]:Cache Folder Erased. <1> Files deleted.
+PEDIDOSONLINE.exe: 000010E0: 10:36:15 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 000010E0: 10:36:15 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00000B90: 10:36:20 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000B5C: 10:36:21 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000F1C: 10:36:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 0000144C: 10:36:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 000019B0: 10:40:09 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 000019B0: 10:40:09 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 000019B0: 10:40:09 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 000019B0: 10:40:09 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 000019B0: 10:40:09 [TUniServerModule]:Cache Folder Erased. <16> Files deleted.
+PEDIDOSONLINE.exe: 000019B0: 10:40:09 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 000019B0: 10:40:11 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00001698: 10:40:17 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00001614: 10:40:20 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00001A80: 10:41:14 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 00001A98: 10:41:14 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\cards-faturamento\vendor\fontawesome-free\css\all.min.css

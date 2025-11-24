@@ -1,0 +1,4 @@
+PEDIDOSONLINE.exe: 00000310: 01:24:23 [127.0.0.1]:Exception raised while destroying session: Unable to complete network request to host "35.173.243.125".
+Error writing data to the connection.
+PEDIDOSONLINE.exe: 00000310: 01:24:23 [127.0.0.1]:EIBInterBaseError : Unable to complete network request to host "35.173.243.125".
+Error writing data to the connection. : Addr: $00942F13

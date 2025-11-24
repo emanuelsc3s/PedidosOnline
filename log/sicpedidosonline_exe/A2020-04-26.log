@@ -1,0 +1,279 @@
+SicPedidosOnline.exe: 00000D90: 00:00:40 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00001D20: 00:00:40 [HandleFileRequest[127.0.0.1]]:Access denied: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\pagina\css\bootstrap.css.map.
+SicPedidosOnline.exe: 00005BD4: 00:02:47 [TUniServerModule]:Shutting Down Server.
+SicPedidosOnline.exe: 00005BD4: 00:02:47 [TUniServerModule]:Stopping HTTP Server.
+SicPedidosOnline.exe: 00005BD4: 00:02:48 [TUniServerModule]:HTTP Server Stopped.
+SicPedidosOnline.exe: 00005BD4: 00:02:48 [TUniGUISessionManager]:Terminating Session manager.
+SicPedidosOnline.exe: 00005BD4: 00:02:48 [TUniGUISessionManager]:Stopping Cache Eraser...
+SicPedidosOnline.exe: 00005BD4: 00:02:48 [TUniGUISessionManager]:Cache Eraser Stopped.
+SicPedidosOnline.exe: 00005BD4: 00:02:48 [TUniGUISessionManager]:Waiting for session manager thread...
+SicPedidosOnline.exe: 00001EA8: 00:04:56 []:>--------------------------------------------------------------<
+SicPedidosOnline.exe: 00001EA8: 00:04:56 [TUniServerModule]:Server First Init.
+SicPedidosOnline.exe: 00001EA8: 00:04:56 [TUniServerModule]:Global Cache Folder Erased. <5> Files deleted.
+SicPedidosOnline.exe: 00001EA8: 00:04:56 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+SicPedidosOnline.exe: 00001EA8: 00:04:56 [TUniServerModule]:HTTP Server Started on Port: 8077
+SicPedidosOnline.exe: 000063C8: 00:04:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00001BB8: 00:04:58 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00004610: 00:13:49 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 0000658C: 00:13:50 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00004378: 00:16:37 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00004C98: 00:16:37 [HandleFileRequest[127.0.0.1]]:Access denied: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\pagina\css\bootstrap.css.map.
+SicPedidosOnline.exe: 000026EC: 00:18:28 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 000023C8: 00:18:28 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00001EA8: 00:22:52 [TUniServerModule]:Shutting Down Server.
+SicPedidosOnline.exe: 00001EA8: 00:22:52 [TUniServerModule]:Stopping HTTP Server.
+SicPedidosOnline.exe: 00001EA8: 00:22:53 [TUniServerModule]:HTTP Server Stopped.
+SicPedidosOnline.exe: 00001EA8: 00:22:53 [TUniGUISessionManager]:Terminating Session manager.
+SicPedidosOnline.exe: 00001EA8: 00:22:53 [TUniGUISessionManager]:Stopping Cache Eraser...
+SicPedidosOnline.exe: 00001EA8: 00:22:53 [TUniGUISessionManager]:Cache Eraser Stopped.
+SicPedidosOnline.exe: 00001EA8: 00:22:53 [TUniGUISessionManager]:Waiting for session manager thread...
+SicPedidosOnline.exe: 00005674: 00:25:43 []:>--------------------------------------------------------------<
+SicPedidosOnline.exe: 00005674: 00:25:43 [TUniServerModule]:Server First Init.
+SicPedidosOnline.exe: 00005674: 00:25:43 [TUniServerModule]:Global Cache Folder Erased. <6> Files deleted.
+SicPedidosOnline.exe: 00005674: 00:25:43 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+SicPedidosOnline.exe: 00005674: 00:25:43 [TUniServerModule]:HTTP Server Started on Port: 8077
+SicPedidosOnline.exe: 000002A4: 00:25:44 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00001D4C: 00:25:45 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 000060A0: 00:26:46 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00003348: 00:26:46 [HandleFileRequest[127.0.0.1]]:Access denied: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\pagina\css\bootstrap.css.map.
+SicPedidosOnline.exe: 0000092C: 00:47:16 [HandleFileRequest[127.0.0.1]]:Access denied: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\pagina\css\bootstrap.css.map.
+SicPedidosOnline.exe: 0000665C: 00:56:04 []:Error deleting folder: "C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\cache\sicpedidosonline_exe\vbhgNBxHZ7105F1D3DB\" [OS Error:32]
+SicPedidosOnline.exe: 00005674: 00:56:09 [TUniServerModule]:Shutting Down Server.
+SicPedidosOnline.exe: 00005674: 00:56:09 [TUniServerModule]:Stopping HTTP Server.
+SicPedidosOnline.exe: 00005674: 00:56:10 [TUniServerModule]:HTTP Server Stopped.
+SicPedidosOnline.exe: 00005674: 00:56:10 [TUniGUISessionManager]:Terminating Session manager.
+SicPedidosOnline.exe: 00005674: 00:56:10 [TUniGUISessionManager]:Stopping Cache Eraser...
+SicPedidosOnline.exe: 00005674: 00:56:10 [TUniGUISessionManager]:Cache Eraser Stopped.
+SicPedidosOnline.exe: 00005674: 00:56:10 [TUniGUISessionManager]:Destroying Worker Threads.
+SicPedidosOnline.exe: 00005674: 00:56:10 [TUniGUISessionManager]:Session manager terminated.
+SicPedidosOnline.exe: 00005674: 00:56:10 [TUniServerModule]:Server Shutdown Completed.
+SicPedidosOnline.exe: 00005674: 00:56:10 []:<-------------------------------------------------------------->
+SicPedidosOnline.exe: 00005674: 00:56:10 [Terminated]:Exit Code: 0
+SicPedidosOnline.exe: 000041F0: 00:56:40 []:>--------------------------------------------------------------<
+SicPedidosOnline.exe: 000041F0: 00:56:40 [TUniServerModule]:Server First Init.
+SicPedidosOnline.exe: 000041F0: 00:56:41 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+SicPedidosOnline.exe: 000041F0: 00:56:41 [TUniServerModule]:HTTP Server Started on Port: 8077
+SicPedidosOnline.exe: 0000606C: 00:56:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00005FB0: 00:56:42 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 000065D8: 00:59:59 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00004A98: 01:00:00 [HandleFileRequest[127.0.0.1]]:Access denied: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\pagina\css\bootstrap.css.map.
+SicPedidosOnline.exe: 000041F0: 01:08:46 [TUniServerModule]:Shutting Down Server.
+SicPedidosOnline.exe: 000041F0: 01:08:46 [TUniServerModule]:Stopping HTTP Server.
+SicPedidosOnline.exe: 000041F0: 01:08:47 [TUniServerModule]:HTTP Server Stopped.
+SicPedidosOnline.exe: 000041F0: 01:08:47 [TUniGUISessionManager]:Terminating Session manager.
+SicPedidosOnline.exe: 000041F0: 01:08:47 [TUniGUISessionManager]:Stopping Cache Eraser...
+SicPedidosOnline.exe: 000041F0: 01:08:47 [TUniGUISessionManager]:Cache Eraser Stopped.
+SicPedidosOnline.exe: 000041F0: 01:08:47 [TUniGUISessionManager]:Destroying Worker Threads.
+SicPedidosOnline.exe: 000041F0: 01:08:47 [TUniGUISessionManager]:Session manager terminated.
+SicPedidosOnline.exe: 000041F0: 01:08:47 [TUniServerModule]:Server Shutdown Completed.
+SicPedidosOnline.exe: 000041F0: 01:08:47 []:<-------------------------------------------------------------->
+SicPedidosOnline.exe: 000041F0: 01:08:47 [Terminated]:Exit Code: 0
+SicPedidosOnline.exe: 00006448: 01:08:58 []:>--------------------------------------------------------------<
+SicPedidosOnline.exe: 00006448: 01:08:58 [TUniServerModule]:Server First Init.
+SicPedidosOnline.exe: 00006448: 01:08:59 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+SicPedidosOnline.exe: 00006448: 01:08:59 [TUniServerModule]:HTTP Server Started on Port: 8077
+SicPedidosOnline.exe: 0000668C: 01:08:59 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 000030D4: 01:09:00 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00005A00: 01:12:42 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 000028DC: 01:12:43 [HandleFileRequest[127.0.0.1]]:Access denied: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\pagina\css\bootstrap.css.map.
+SicPedidosOnline.exe: 00006448: 01:16:02 [TUniServerModule]:Shutting Down Server.
+SicPedidosOnline.exe: 00006448: 01:16:02 [TUniServerModule]:Stopping HTTP Server.
+SicPedidosOnline.exe: 00006448: 01:16:03 [TUniServerModule]:HTTP Server Stopped.
+SicPedidosOnline.exe: 00006448: 01:16:03 [TUniGUISessionManager]:Terminating Session manager.
+SicPedidosOnline.exe: 00006448: 01:16:03 [TUniGUISessionManager]:Stopping Cache Eraser...
+SicPedidosOnline.exe: 00006448: 01:16:03 [TUniGUISessionManager]:Cache Eraser Stopped.
+SicPedidosOnline.exe: 00006448: 01:16:04 [TUniGUISessionManager]:Destroying Worker Threads.
+SicPedidosOnline.exe: 00006448: 01:16:04 [TUniGUISessionManager]:Session manager terminated.
+SicPedidosOnline.exe: 00006448: 01:16:04 [TUniServerModule]:Server Shutdown Completed.
+SicPedidosOnline.exe: 00006448: 01:16:04 []:<-------------------------------------------------------------->
+SicPedidosOnline.exe: 00006448: 01:16:04 [Terminated]:Exit Code: 0
+SicPedidosOnline.exe: 00005160: 01:17:55 []:>--------------------------------------------------------------<
+SicPedidosOnline.exe: 00005160: 01:17:55 [TUniServerModule]:Server First Init.
+SicPedidosOnline.exe: 00005160: 01:17:56 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+SicPedidosOnline.exe: 00005160: 01:17:56 [TUniServerModule]:HTTP Server Started on Port: 8077
+SicPedidosOnline.exe: 00005EB8: 01:17:56 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00001914: 01:17:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00005160: 01:21:00 [TUniServerModule]:Shutting Down Server.
+SicPedidosOnline.exe: 00005160: 01:21:00 [TUniServerModule]:Stopping HTTP Server.
+SicPedidosOnline.exe: 00005160: 01:21:01 [TUniServerModule]:HTTP Server Stopped.
+SicPedidosOnline.exe: 00005160: 01:21:01 [TUniGUISessionManager]:Terminating Session manager.
+SicPedidosOnline.exe: 00005160: 01:21:01 [TUniGUISessionManager]:Stopping Cache Eraser...
+SicPedidosOnline.exe: 00005160: 01:21:01 [TUniGUISessionManager]:Cache Eraser Stopped.
+SicPedidosOnline.exe: 00005160: 01:21:01 [TUniGUISessionManager]:Waiting for session manager thread...
+SicPedidosOnline.exe: 000023AC: 01:21:49 []:>--------------------------------------------------------------<
+SicPedidosOnline.exe: 000023AC: 01:21:49 [TUniServerModule]:Server First Init.
+SicPedidosOnline.exe: 000023AC: 01:21:49 [TUniServerModule]:Global Cache Folder Erased. <6> Files deleted.
+SicPedidosOnline.exe: 000023AC: 01:21:49 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+SicPedidosOnline.exe: 000023AC: 01:21:49 [TUniServerModule]:HTTP Server Started on Port: 8077
+SicPedidosOnline.exe: 00003634: 01:21:50 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00006484: 01:21:51 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00003620: 01:24:30 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\favicon.ico
+SicPedidosOnline.exe: 00004010: 09:38:27 []:>--------------------------------------------------------------<
+SicPedidosOnline.exe: 00004010: 09:38:27 [TUniServerModule]:Server First Init.
+SicPedidosOnline.exe: 00004010: 09:38:27 [TUniServerModule]:Global Cache Folder Erased. <9> Files deleted.
+SicPedidosOnline.exe: 00004010: 09:38:28 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+SicPedidosOnline.exe: 00004010: 09:38:28 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. Address and port are already in use. : Addr: $006FB915
+SicPedidosOnline.exe: 0000092C: 09:38:29 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00005B24: 09:38:29 []:Error deleting folder: "C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\cache\sicpedidosonline_exe\RzH9vpdsIb105F1E313\" [OS Error:2]
+SicPedidosOnline.exe: 00002AC4: 09:38:29 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00005338: 09:38:38 [127.0.0.1]:EUniSessionException : Sessão Inválida (Session not found: RzH9vpdsIb105F1E313 ) : Addr: $007FCB15
+SicPedidosOnline.exe: 00004010: 09:38:42 [TUniServerModule]:Shutting Down Server.
+SicPedidosOnline.exe: 00004010: 09:38:42 [TUniServerModule]:Stopping HTTP Server.
+SicPedidosOnline.exe: 00004010: 09:38:43 [TUniServerModule]:HTTP Server Stopped.
+SicPedidosOnline.exe: 00004010: 09:38:43 [TUniGUISessionManager]:Terminating Session manager.
+SicPedidosOnline.exe: 00004010: 09:38:43 [TUniGUISessionManager]:Stopping Cache Eraser...
+SicPedidosOnline.exe: 00004010: 09:38:43 [TUniGUISessionManager]:Cache Eraser Stopped.
+SicPedidosOnline.exe: 00004010: 09:38:43 [TUniGUISessionManager]:Destroying Worker Threads.
+SicPedidosOnline.exe: 00004010: 09:38:43 [TUniGUISessionManager]:Session manager terminated.
+SicPedidosOnline.exe: 00004010: 09:38:43 [TUniServerModule]:Server Shutdown Completed.
+SicPedidosOnline.exe: 00004010: 09:38:43 []:<-------------------------------------------------------------->
+SicPedidosOnline.exe: 00004010: 09:38:43 [Terminated]:Exit Code: 0
+SicPedidosOnline.exe: 000023AC: 09:38:45 [TUniServerModule]:Shutting Down Server.
+SicPedidosOnline.exe: 000023AC: 09:38:45 [TUniServerModule]:Stopping HTTP Server.
+SicPedidosOnline.exe: 000023AC: 09:38:46 [TUniServerModule]:HTTP Server Stopped.
+SicPedidosOnline.exe: 000023AC: 09:38:46 [TUniGUISessionManager]:Terminating Session manager.
+SicPedidosOnline.exe: 000023AC: 09:38:46 [TUniGUISessionManager]:Stopping Cache Eraser...
+SicPedidosOnline.exe: 000023AC: 09:38:46 [TUniGUISessionManager]:Cache Eraser Stopped.
+SicPedidosOnline.exe: 000023AC: 09:38:46 [TUniGUISessionManager]:Destroying Worker Threads.
+SicPedidosOnline.exe: 000023AC: 09:38:46 [TUniGUISessionManager]:Session manager terminated.
+SicPedidosOnline.exe: 000023AC: 09:38:46 [TUniServerModule]:Server Shutdown Completed.
+SicPedidosOnline.exe: 000023AC: 09:38:46 []:<-------------------------------------------------------------->
+SicPedidosOnline.exe: 000023AC: 09:38:46 [Terminated]:Exit Code: 0
+SicPedidosOnline.exe: 0000392C: 09:43:44 []:>--------------------------------------------------------------<
+SicPedidosOnline.exe: 0000392C: 09:43:44 [TUniServerModule]:Server First Init.
+SicPedidosOnline.exe: 0000392C: 09:43:45 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+SicPedidosOnline.exe: 0000392C: 09:43:45 [TUniServerModule]:HTTP Server Started on Port: 8077
+SicPedidosOnline.exe: 00005440: 09:43:45 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00004C60: 09:43:46 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00001190: 09:45:05 [127.0.0.1]:EUniSessionException : Sessão Inválida (Session not found: iAlAw1XI9Y105F26B3B ) : Addr: $007FCB15
+SicPedidosOnline.exe: 00005BC0: 09:45:05 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00005564: 09:45:06 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 000011B8: 09:47:50 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\favicon.ico
+SicPedidosOnline.exe: 00004700: 09:48:59 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 000061B8: 09:49:00 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00006190: 09:49:04 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 000024EC: 09:49:05 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00004BE0: 09:49:16 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00005E78: 10:18:28 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00006670: 10:18:29 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00000B48: 10:18:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00005EDC: 10:18:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00006778: 10:18:45 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00005880: 10:24:31 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00005440: 10:24:32 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 0000392C: 10:27:58 [TUniServerModule]:Shutting Down Server.
+SicPedidosOnline.exe: 0000392C: 10:27:58 [TUniServerModule]:Stopping HTTP Server.
+SicPedidosOnline.exe: 0000392C: 10:27:59 [TUniServerModule]:HTTP Server Stopped.
+SicPedidosOnline.exe: 0000392C: 10:27:59 [TUniGUISessionManager]:Terminating Session manager.
+SicPedidosOnline.exe: 0000392C: 10:27:59 [TUniGUISessionManager]:Stopping Cache Eraser...
+SicPedidosOnline.exe: 0000392C: 10:27:59 [TUniGUISessionManager]:Cache Eraser Stopped.
+SicPedidosOnline.exe: 0000392C: 10:27:59 [TUniGUISessionManager]:Destroying Worker Threads.
+SicPedidosOnline.exe: 0000392C: 10:27:59 [TUniGUISessionManager]:Session manager terminated.
+SicPedidosOnline.exe: 0000392C: 10:27:59 [TUniServerModule]:Server Shutdown Completed.
+SicPedidosOnline.exe: 0000392C: 10:27:59 []:<-------------------------------------------------------------->
+SicPedidosOnline.exe: 0000392C: 10:27:59 [Terminated]:Exit Code: 0
+SicPedidosOnline.exe: 000058F4: 10:42:32 []:>--------------------------------------------------------------<
+SicPedidosOnline.exe: 000058F4: 10:42:32 [TUniServerModule]:Server First Init.
+SicPedidosOnline.exe: 000058F4: 10:42:33 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+SicPedidosOnline.exe: 000058F4: 10:42:33 [TUniServerModule]:HTTP Server Started on Port: 8077
+SicPedidosOnline.exe: 00004D2C: 10:42:34 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 000020E8: 10:42:35 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 000058F4: 17:58:57 [TUniServerModule]:Shutting Down Server.
+SicPedidosOnline.exe: 000058F4: 17:58:57 [TUniServerModule]:Stopping HTTP Server.
+SicPedidosOnline.exe: 000058F4: 17:58:58 [TUniServerModule]:HTTP Server Stopped.
+SicPedidosOnline.exe: 000058F4: 17:58:58 [TUniGUISessionManager]:Terminating Session manager.
+SicPedidosOnline.exe: 000058F4: 17:58:58 [TUniGUISessionManager]:Stopping Cache Eraser...
+SicPedidosOnline.exe: 000058F4: 17:58:58 [TUniGUISessionManager]:Cache Eraser Stopped.
+SicPedidosOnline.exe: 000058F4: 17:58:58 [TUniGUISessionManager]:Destroying Worker Threads.
+SicPedidosOnline.exe: 000058F4: 17:58:58 [TUniGUISessionManager]:Session manager terminated.
+SicPedidosOnline.exe: 000058F4: 17:58:58 [TUniServerModule]:Server Shutdown Completed.
+SicPedidosOnline.exe: 000058F4: 17:58:58 []:<-------------------------------------------------------------->
+SicPedidosOnline.exe: 000058F4: 17:58:58 [Terminated]:Exit Code: 0
+SicPedidosOnline.exe: 00006980: 17:59:12 []:>--------------------------------------------------------------<
+SicPedidosOnline.exe: 00006980: 17:59:12 [TUniServerModule]:Server First Init.
+SicPedidosOnline.exe: 00006980: 17:59:13 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+SicPedidosOnline.exe: 00006980: 17:59:13 [TUniServerModule]:HTTP Server Started on Port: 8077
+SicPedidosOnline.exe: 000061A8: 17:59:14 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00002830: 17:59:15 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00006980: 19:50:18 [TUniServerModule]:Shutting Down Server.
+SicPedidosOnline.exe: 00006980: 19:50:18 [TUniServerModule]:Stopping HTTP Server.
+SicPedidosOnline.exe: 00006980: 19:50:19 [TUniServerModule]:HTTP Server Stopped.
+SicPedidosOnline.exe: 00006980: 19:50:19 [TUniGUISessionManager]:Terminating Session manager.
+SicPedidosOnline.exe: 00006980: 19:50:19 [TUniGUISessionManager]:Stopping Cache Eraser...
+SicPedidosOnline.exe: 00006980: 19:50:19 [TUniGUISessionManager]:Cache Eraser Stopped.
+SicPedidosOnline.exe: 00006980: 19:50:19 [TUniGUISessionManager]:Destroying Worker Threads.
+SicPedidosOnline.exe: 00006980: 19:50:19 [TUniGUISessionManager]:Session manager terminated.
+SicPedidosOnline.exe: 00006980: 19:50:19 [TUniServerModule]:Server Shutdown Completed.
+SicPedidosOnline.exe: 00006980: 19:50:19 []:<-------------------------------------------------------------->
+SicPedidosOnline.exe: 00006980: 19:50:19 [Terminated]:Exit Code: 0
+SicPedidosOnline.exe: 00006238: 19:50:44 []:>--------------------------------------------------------------<
+SicPedidosOnline.exe: 00006238: 19:50:44 [TUniServerModule]:Server First Init.
+SicPedidosOnline.exe: 00006238: 19:50:45 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+SicPedidosOnline.exe: 00006238: 19:50:45 [TUniServerModule]:HTTP Server Started on Port: 8077
+SicPedidosOnline.exe: 00006D50: 19:50:46 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00004E9C: 19:50:46 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00006238: 19:55:06 [TUniServerModule]:Shutting Down Server.
+SicPedidosOnline.exe: 00006238: 19:55:06 [TUniServerModule]:Stopping HTTP Server.
+SicPedidosOnline.exe: 00006238: 19:55:07 [TUniServerModule]:HTTP Server Stopped.
+SicPedidosOnline.exe: 00006238: 19:55:07 [TUniGUISessionManager]:Terminating Session manager.
+SicPedidosOnline.exe: 00006238: 19:55:07 [TUniGUISessionManager]:Stopping Cache Eraser...
+SicPedidosOnline.exe: 00006238: 19:55:07 [TUniGUISessionManager]:Cache Eraser Stopped.
+SicPedidosOnline.exe: 00006238: 19:55:07 [TUniGUISessionManager]:Destroying Worker Threads.
+SicPedidosOnline.exe: 00006238: 19:55:07 [TUniGUISessionManager]:Session manager terminated.
+SicPedidosOnline.exe: 00006238: 19:55:07 [TUniServerModule]:Server Shutdown Completed.
+SicPedidosOnline.exe: 00006238: 19:55:07 []:<-------------------------------------------------------------->
+SicPedidosOnline.exe: 00006238: 19:55:07 [Terminated]:Exit Code: 0
+SicPedidosOnline.exe: 00005FCC: 19:55:59 []:>--------------------------------------------------------------<
+SicPedidosOnline.exe: 00005FCC: 19:55:59 [TUniServerModule]:Server First Init.
+SicPedidosOnline.exe: 00005FCC: 19:56:00 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+SicPedidosOnline.exe: 00005FCC: 19:56:00 [TUniServerModule]:HTTP Server Started on Port: 8077
+SicPedidosOnline.exe: 00005E60: 19:56:01 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00006264: 19:56:02 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00005D48: 20:52:03 [127.0.0.1]:EUniSessionException : Sessão Inválida (Session not found: 6B6yzgZ9AK105F1D0A0 ) : Addr: $007FCB15
+SicPedidosOnline.exe: 00005D48: 20:52:03 [127.0.0.1]:EUniSessionException : Sessão Inválida (Session not found: 6B6yzgZ9AK105F1D0A0 ) : Addr: $007FCB15
+SicPedidosOnline.exe: 00005FCC: 22:24:14 [TUniServerModule]:Shutting Down Server.
+SicPedidosOnline.exe: 00005FCC: 22:24:14 [TUniServerModule]:Stopping HTTP Server.
+SicPedidosOnline.exe: 00005FCC: 22:24:14 [TUniServerModule]:HTTP Server Stopped.
+SicPedidosOnline.exe: 00005FCC: 22:24:14 [TUniGUISessionManager]:Terminating Session manager.
+SicPedidosOnline.exe: 00005FCC: 22:24:14 [TUniGUISessionManager]:Stopping Cache Eraser...
+SicPedidosOnline.exe: 00005FCC: 22:24:14 [TUniGUISessionManager]:Cache Eraser Stopped.
+SicPedidosOnline.exe: 00005FCC: 22:24:14 [TUniGUISessionManager]:Destroying Worker Threads.
+SicPedidosOnline.exe: 00005FCC: 22:24:14 [TUniGUISessionManager]:Session manager terminated.
+SicPedidosOnline.exe: 00005FCC: 22:24:15 [TUniServerModule]:Server Shutdown Completed.
+SicPedidosOnline.exe: 00005FCC: 22:24:15 []:<-------------------------------------------------------------->
+SicPedidosOnline.exe: 00005FCC: 22:24:15 [Terminated]:Exit Code: 0
+SicPedidosOnline.exe: 00007620: 22:28:56 []:>--------------------------------------------------------------<
+SicPedidosOnline.exe: 00007620: 22:28:56 [TUniServerModule]:Server First Init.
+SicPedidosOnline.exe: 00007620: 22:28:57 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+SicPedidosOnline.exe: 00007620: 22:28:57 [TUniServerModule]:HTTP Server Started on Port: 8077
+SicPedidosOnline.exe: 000006C8: 22:28:59 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 0000753C: 22:28:59 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 0000702C: 22:29:47 [Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TBTABELA
+At line 1, column 40-127.0.0.1]:EIBInterBaseError : Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TBTABELA
+At line 1, column 40 : Addr: $00985D9F
+SicPedidosOnline.exe: 0000496C: 22:30:04 [Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TBTABELA
+At line 1, column 40-127.0.0.1]:EIBInterBaseError : Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TBTABELA
+At line 1, column 40 : Addr: $00985D9F
+SicPedidosOnline.exe: 00007620: 22:39:12 [TUniServerModule]:Shutting Down Server.
+SicPedidosOnline.exe: 00007620: 22:39:12 [TUniServerModule]:Stopping HTTP Server.
+SicPedidosOnline.exe: 00007620: 22:39:13 [TUniServerModule]:HTTP Server Stopped.
+SicPedidosOnline.exe: 00007620: 22:39:13 [TUniGUISessionManager]:Terminating Session manager.
+SicPedidosOnline.exe: 00007620: 22:39:13 [TUniGUISessionManager]:Stopping Cache Eraser...
+SicPedidosOnline.exe: 00007620: 22:39:13 [TUniGUISessionManager]:Cache Eraser Stopped.
+SicPedidosOnline.exe: 00007620: 22:39:13 [TUniGUISessionManager]:Destroying Worker Threads.
+SicPedidosOnline.exe: 00007620: 22:39:13 [TUniGUISessionManager]:Session manager terminated.
+SicPedidosOnline.exe: 00007620: 22:39:13 [TUniServerModule]:Server Shutdown Completed.
+SicPedidosOnline.exe: 00007620: 22:39:13 []:<-------------------------------------------------------------->
+SicPedidosOnline.exe: 00007620: 22:39:13 [Terminated]:Exit Code: 0

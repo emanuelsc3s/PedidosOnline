@@ -1,0 +1,70 @@
+PEDIDOSONLINE.exe: 00004484: 09:38:25 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00004484: 09:38:25 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00004484: 09:38:25 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00004484: 09:38:25 [TUniServerModule]:Cache Folder Erased. <5> Files deleted.
+PEDIDOSONLINE.exe: 00004484: 09:38:26 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00004484: 09:38:26 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. Address and port are already in use. : Addr: $006F68DD
+PEDIDOSONLINE.exe: 00004484: 09:39:11 [TUniServerModule]:Shutting Down Server.
+PEDIDOSONLINE.exe: 00004484: 09:39:11 [TUniServerModule]:HTTP Server Stopped.
+PEDIDOSONLINE.exe: 00004484: 09:39:11 [TUniGUISessionManager]:Terminating Session manager.
+PEDIDOSONLINE.exe: 00004484: 09:39:11 [TUniGUISessionManager]:Stopping Cache Eraser...
+PEDIDOSONLINE.exe: 00004484: 09:39:11 [TUniGUISessionManager]:Cache Eraser Stopped.
+PEDIDOSONLINE.exe: 00004484: 09:39:11 [TUniGUISessionManager]:Destroying Worker Threads.
+PEDIDOSONLINE.exe: 00004484: 09:39:11 [TUniGUISessionManager]:Session manager terminated.
+PEDIDOSONLINE.exe: 00004484: 09:39:11 [TUniServerModule]:Server Shutdown Completed.
+PEDIDOSONLINE.exe: 00004484: 09:39:11 []:<-------------------------------------------------------------->
+PEDIDOSONLINE.exe: 00004484: 09:39:11 [Terminated]:Exit Code: 0
+PEDIDOSONLINE.exe: 000074E0: 09:39:28 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 000074E0: 09:39:28 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 000074E0: 09:39:28 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 000074E0: 09:39:28 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+PEDIDOSONLINE.exe: 000074E0: 09:39:28 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 000074E0: 09:39:28 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. Address and port are already in use. : Addr: $006F68DD
+PEDIDOSONLINE.exe: 000074E0: 09:44:30 [TUniServerModule]:Shutting Down Server.
+PEDIDOSONLINE.exe: 000074E0: 09:44:31 [TUniServerModule]:HTTP Server Stopped.
+PEDIDOSONLINE.exe: 000074E0: 09:44:31 [TUniGUISessionManager]:Terminating Session manager.
+PEDIDOSONLINE.exe: 000074E0: 09:44:31 [TUniGUISessionManager]:Stopping Cache Eraser...
+PEDIDOSONLINE.exe: 000074E0: 09:44:31 [TUniGUISessionManager]:Cache Eraser Stopped.
+PEDIDOSONLINE.exe: 000074E0: 09:44:31 [TUniGUISessionManager]:Destroying Worker Threads.
+PEDIDOSONLINE.exe: 000074E0: 09:44:31 [TUniGUISessionManager]:Session manager terminated.
+PEDIDOSONLINE.exe: 000074E0: 09:44:31 [TUniServerModule]:Server Shutdown Completed.
+PEDIDOSONLINE.exe: 000074E0: 09:44:31 []:<-------------------------------------------------------------->
+PEDIDOSONLINE.exe: 000074E0: 09:44:31 [Terminated]:Exit Code: 0
+PEDIDOSONLINE.exe: 00004BE0: 09:44:43 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00004BE0: 09:44:43 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00004BE0: 09:44:43 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00004BE0: 09:44:43 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+PEDIDOSONLINE.exe: 00004BE0: 09:44:43 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00004BE0: 09:44:43 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00004BE0: 09:53:04 [TUniServerModule]:Shutting Down Server.
+PEDIDOSONLINE.exe: 00004BE0: 09:53:04 [TUniServerModule]:HTTP Server Stopped.
+PEDIDOSONLINE.exe: 00004BE0: 09:53:04 [TUniGUISessionManager]:Terminating Session manager.
+PEDIDOSONLINE.exe: 00004BE0: 09:53:04 [TUniGUISessionManager]:Stopping Cache Eraser...
+PEDIDOSONLINE.exe: 00004BE0: 09:53:04 [TUniGUISessionManager]:Cache Eraser Stopped.
+PEDIDOSONLINE.exe: 00004BE0: 09:53:04 [TUniGUISessionManager]:Destroying Worker Threads.
+PEDIDOSONLINE.exe: 00004BE0: 09:53:04 [TUniGUISessionManager]:Session manager terminated.
+PEDIDOSONLINE.exe: 00004BE0: 09:53:04 [TUniServerModule]:Server Shutdown Completed.
+PEDIDOSONLINE.exe: 00004BE0: 09:53:04 []:<-------------------------------------------------------------->
+PEDIDOSONLINE.exe: 00004BE0: 09:53:04 [Terminated]:Exit Code: 0
+PEDIDOSONLINE.exe: 00007670: 09:53:16 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00007670: 09:53:16 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00007670: 09:53:16 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00007670: 09:53:16 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+PEDIDOSONLINE.exe: 00007670: 09:53:16 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00007670: 09:53:16 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00007670: 10:01:39 [TUniServerModule]:Shutting Down Server.
+PEDIDOSONLINE.exe: 00007670: 10:01:40 [TUniServerModule]:HTTP Server Stopped.
+PEDIDOSONLINE.exe: 00007670: 10:01:40 [TUniGUISessionManager]:Terminating Session manager.
+PEDIDOSONLINE.exe: 00007670: 10:01:40 [TUniGUISessionManager]:Stopping Cache Eraser...
+PEDIDOSONLINE.exe: 00007670: 10:01:40 [TUniGUISessionManager]:Cache Eraser Stopped.
+PEDIDOSONLINE.exe: 00007670: 10:01:40 [TUniGUISessionManager]:Destroying Worker Threads.
+PEDIDOSONLINE.exe: 00007670: 10:01:40 [TUniGUISessionManager]:Session manager terminated.
+PEDIDOSONLINE.exe: 00007670: 10:01:40 [TUniServerModule]:Server Shutdown Completed.
+PEDIDOSONLINE.exe: 00007670: 10:01:40 []:<-------------------------------------------------------------->
+PEDIDOSONLINE.exe: 00007670: 10:01:40 [Terminated]:Exit Code: 0
+PEDIDOSONLINE.exe: 00006E80: 10:01:51 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00006E80: 10:01:51 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00006E80: 10:01:51 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00006E80: 10:01:51 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+PEDIDOSONLINE.exe: 00006E80: 10:01:51 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00006E80: 10:01:51 [TUniServerModule]:HTTP Server Started. Port: 8077

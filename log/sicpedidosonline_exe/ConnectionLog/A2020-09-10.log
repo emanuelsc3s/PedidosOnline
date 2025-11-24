@@ -1,0 +1,45 @@
+SicPedidosOnline.exe: 00005374: 22:48:39 [127.0.0.1]:Failed Sequence Recovery: SeqId: 33, Event: click
+SicPedidosOnline.exe: 00005374: 22:48:39 [127.0.0.1]:Sequence sent from cache:  SeqId: 33
+SicPedidosOnline.exe: 00005374: 22:48:39 [127.0.0.1]:Processed: Id: 33, Evt: click, [AVEktsKBzT106C44AF5]
+SicPedidosOnline.exe: 00005490: 22:48:39 [127.0.0.1]:Failed Sequence Recovery: SeqId: 33, Event: click
+SicPedidosOnline.exe: 00002540: 22:48:39 [127.0.0.1]:Failed Sequence Recovery: SeqId: 33, Event: click
+SicPedidosOnline.exe: 00005490: 22:48:39 [127.0.0.1]:Sequence sent from cache:  SeqId: 33
+SicPedidosOnline.exe: 00005490: 22:48:39 [127.0.0.1]:Processed: Id: 33, Evt: click, [AVEktsKBzT106C44AF5]
+SicPedidosOnline.exe: 00002540: 22:48:39 [127.0.0.1]:Sequence sent from cache:  SeqId: 33
+SicPedidosOnline.exe: 00002540: 22:48:39 [127.0.0.1]:Processed: Id: 33, Evt: click, [AVEktsKBzT106C44AF5]
+SicPedidosOnline.exe: 00003D2C: 22:51:16 [127.0.0.1]:Failed Sequence Recovery: SeqId: 34, Event: click
+SicPedidosOnline.exe: 00003D2C: 22:51:16 [127.0.0.1]:Sequence sent from cache:  SeqId: 34
+SicPedidosOnline.exe: 00003D2C: 22:51:16 [127.0.0.1]:Processed: Id: 34, Evt: click, [AVEktsKBzT106C44AF5]
+SicPedidosOnline.exe: 000050F0: 22:51:16 [127.0.0.1]:Failed Sequence Recovery: SeqId: 34, Event: click
+SicPedidosOnline.exe: 00004F38: 22:51:16 [127.0.0.1]:Failed Sequence Recovery: SeqId: 34, Event: click
+SicPedidosOnline.exe: 0000089C: 22:51:16 [127.0.0.1]:Failed Sequence Recovery: SeqId: 34, Event: click
+SicPedidosOnline.exe: 000050F0: 22:51:16 [127.0.0.1]:Sequence sent from cache:  SeqId: 34
+SicPedidosOnline.exe: 000050F0: 22:51:16 [127.0.0.1]:Processed: Id: 34, Evt: click, [AVEktsKBzT106C44AF5]
+SicPedidosOnline.exe: 00004F38: 22:51:16 [127.0.0.1]:Sequence sent from cache:  SeqId: 34
+SicPedidosOnline.exe: 00004F38: 22:51:16 [127.0.0.1]:Processed: Id: 34, Evt: click, [AVEktsKBzT106C44AF5]
+SicPedidosOnline.exe: 0000089C: 22:51:16 [127.0.0.1]:Sequence sent from cache:  SeqId: 34
+SicPedidosOnline.exe: 0000089C: 22:51:16 [127.0.0.1]:Processed: Id: 34, Evt: click, [AVEktsKBzT106C44AF5]
+SicPedidosOnline.exe: 00003FD8: 23:19:34 [127.0.0.1]:Failed Sequence Recovery: SeqId: 140, Event: click
+SicPedidosOnline.exe: 00003FD8: 23:19:34 [127.0.0.1]:Sequence sent from cache:  SeqId: 140
+SicPedidosOnline.exe: 00003FD8: 23:19:34 [127.0.0.1]:Processed: Id: 140, Evt: click, [VjdeKTbjQU106C44F38]
+SicPedidosOnline.exe: 00002EEC: 23:24:12 [127.0.0.1]:Failed Sequence Recovery: SeqId: 148, Event: click
+SicPedidosOnline.exe: 00002EEC: 23:24:13 [127.0.0.1]:Sequence sent from cache:  SeqId: 148
+SicPedidosOnline.exe: 00002EEC: 23:24:13 [127.0.0.1]:Processed: Id: 148, Evt: click, [VjdeKTbjQU106C44F38]
+SicPedidosOnline.exe: 00001C0C: 23:24:13 [127.0.0.1]:Failed Sequence Recovery: SeqId: 148, Event: click
+SicPedidosOnline.exe: 000049C0: 23:24:13 [127.0.0.1]:Failed Sequence Recovery: SeqId: 148, Event: click
+SicPedidosOnline.exe: 00005F94: 23:24:13 [127.0.0.1]:Failed Sequence Recovery: SeqId: 148, Event: click
+SicPedidosOnline.exe: 00004560: 23:24:13 [127.0.0.1]:Failed Sequence Recovery: SeqId: 148, Event: click
+SicPedidosOnline.exe: 00001C0C: 23:24:13 [127.0.0.1]:Sequence sent from cache:  SeqId: 148
+SicPedidosOnline.exe: 00001C0C: 23:24:13 [127.0.0.1]:Processed: Id: 148, Evt: click, [VjdeKTbjQU106C44F38]
+SicPedidosOnline.exe: 00005380: 23:24:13 [127.0.0.1]:Failed Sequence Recovery: SeqId: 148, Event: click
+SicPedidosOnline.exe: 000049C0: 23:24:13 [127.0.0.1]:Sequence sent from cache:  SeqId: 148
+SicPedidosOnline.exe: 000049C0: 23:24:13 [127.0.0.1]:Processed: Id: 148, Evt: click, [VjdeKTbjQU106C44F38]
+SicPedidosOnline.exe: 00005F94: 23:24:13 [127.0.0.1]:Sequence sent from cache:  SeqId: 148
+SicPedidosOnline.exe: 00005F94: 23:24:13 [127.0.0.1]:Processed: Id: 148, Evt: click, [VjdeKTbjQU106C44F38]
+SicPedidosOnline.exe: 00004560: 23:24:13 [127.0.0.1]:Sequence sent from cache:  SeqId: 148
+SicPedidosOnline.exe: 00004560: 23:24:13 [127.0.0.1]:Processed: Id: 148, Evt: click, [VjdeKTbjQU106C44F38]
+SicPedidosOnline.exe: 00005380: 23:24:13 [127.0.0.1]:Sequence sent from cache:  SeqId: 148
+SicPedidosOnline.exe: 00005380: 23:24:13 [127.0.0.1]:Processed: Id: 148, Evt: click, [VjdeKTbjQU106C44F38]
+SicPedidosOnline.exe: 00005D70: 23:24:16 [127.0.0.1]:Failed Sequence Recovery: SeqId: 148, Event: click
+SicPedidosOnline.exe: 00005D70: 23:24:16 [127.0.0.1]:Sequence sent from cache:  SeqId: 148
+SicPedidosOnline.exe: 00005D70: 23:24:16 [127.0.0.1]:Processed: Id: 148, Evt: click, [VjdeKTbjQU106C44F38]

@@ -1,0 +1,22 @@
+PEDIDOSONLINE.exe: 00003100: 21:25:04 [127.0.0.1]:Failed Sequence Recovery: SeqId: 114, Event: callback
+PEDIDOSONLINE.exe: 000010F0: 21:25:04 [127.0.0.1]:Failed Sequence Recovery: SeqId: 114, Event: callback
+PEDIDOSONLINE.exe: 00003100: 21:25:05 [127.0.0.1]:Sequence sent from cache:  SeqId: 114
+PEDIDOSONLINE.exe: 00003100: 21:25:05 [127.0.0.1]:Processed: Id: 114, Evt: callback, [PFhmrehhFe1044F8AE5]
+PEDIDOSONLINE.exe: 000010F0: 21:25:05 [127.0.0.1]:Sequence sent from cache:  SeqId: 114
+PEDIDOSONLINE.exe: 000010F0: 21:25:05 [127.0.0.1]:Processed: Id: 114, Evt: callback, [PFhmrehhFe1044F8AE5]
+PEDIDOSONLINE.exe: 00002468: 21:44:10 [127.0.0.1]:Failed Sequence Recovery: SeqId: 199, Event: callback
+PEDIDOSONLINE.exe: 00000600: 21:44:10 [127.0.0.1]:Failed Sequence Recovery: SeqId: 199, Event: callback
+PEDIDOSONLINE.exe: 00000600: 21:44:22 [127.0.0.1]:Sequence sent from cache:  SeqId: 199
+PEDIDOSONLINE.exe: 00000600: 21:44:22 [127.0.0.1]:Processed: Id: 199, Evt: callback, [L7A9J3RmHj1044F8FB8]
+PEDIDOSONLINE.exe: 00002468: 21:44:22 [127.0.0.1]:Sequence sent from cache:  SeqId: 199
+PEDIDOSONLINE.exe: 00002468: 21:44:22 [127.0.0.1]:Processed: Id: 199, Evt: callback, [L7A9J3RmHj1044F8FB8]
+PEDIDOSONLINE.exe: 00002D78: 21:53:16 [127.0.0.1]:Failed Sequence Recovery: SeqId: 134, Event: callback
+PEDIDOSONLINE.exe: 00002D78: 21:53:28 [127.0.0.1]:Sequence sent from cache:  SeqId: 134
+PEDIDOSONLINE.exe: 00002D78: 21:53:28 [127.0.0.1]:Processed: Id: 134, Evt: callback, [TDiBEXKACX1044F92C4]
+PEDIDOSONLINE.exe: 000024F4: 21:53:48 [127.0.0.1]:Failed Sequence Recovery: SeqId: 134, Event: callback
+PEDIDOSONLINE.exe: 000024F4: 21:53:48 [127.0.0.1]:Sequence sent from cache:  SeqId: 134
+PEDIDOSONLINE.exe: 000024F4: 21:53:48 [127.0.0.1]:Processed: Id: 134, Evt: callback, [TDiBEXKACX1044F92C4]
+PEDIDOSONLINE.exe: 0000270C: 21:55:52 [127.0.0.1]:Failed Sequence Recovery: SeqId: 187, Event: callback
+PEDIDOSONLINE.exe: 00000D54: 21:58:41 [127.0.0.1]:Failed Sequence Recovery: SeqId: 107, Event: callback
+PEDIDOSONLINE.exe: 00000D54: 21:58:46 [127.0.0.1]:Sequence sent from cache:  SeqId: 107
+PEDIDOSONLINE.exe: 00000D54: 21:58:46 [127.0.0.1]:Processed: Id: 107, Evt: callback, [Uwszp7jVKq1044F9429]

@@ -1,0 +1,51 @@
+PEDIDOSONLINE.exe: 00001D28: 13:33:46 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00001D28: 13:33:46 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00001D28: 13:33:46 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00001D28: 13:33:46 [TUniServerModule]:Cache Folder Erased. <2> Files deleted.
+PEDIDOSONLINE.exe: 00001D28: 13:33:47 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00001D28: 13:33:47 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. Address and port are already in use. : Addr: $006F69E9
+PEDIDOSONLINE.exe: 00001D28: 13:33:56 [TUniServerModule]:Shutting Down Server.
+PEDIDOSONLINE.exe: 00001D28: 13:33:56 [TUniServerModule]:HTTP Server Stopped.
+PEDIDOSONLINE.exe: 00001D28: 13:33:56 [TUniGUISessionManager]:Terminating Session manager.
+PEDIDOSONLINE.exe: 00001D28: 13:33:56 [TUniGUISessionManager]:Stopping Cache Eraser...
+PEDIDOSONLINE.exe: 00001D28: 13:33:56 [TUniGUISessionManager]:Cache Eraser Stopped.
+PEDIDOSONLINE.exe: 00001D28: 13:33:56 [TUniGUISessionManager]:Destroying Worker Threads.
+PEDIDOSONLINE.exe: 00001D28: 13:33:56 [TUniGUISessionManager]:Session manager terminated.
+PEDIDOSONLINE.exe: 00001D28: 13:33:56 [TUniServerModule]:Server Shutdown Completed.
+PEDIDOSONLINE.exe: 00001D28: 13:33:56 []:<-------------------------------------------------------------->
+PEDIDOSONLINE.exe: 00001D28: 13:33:56 [Terminated]:Exit Code: 0
+PEDIDOSONLINE.exe: 00002114: 17:31:57 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00002114: 17:31:57 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00002114: 17:31:57 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00002114: 17:31:57 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00002114: 17:31:57 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+PEDIDOSONLINE.exe: 00002114: 17:31:59 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00002114: 17:32:05 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. Address and port are already in use. : Addr: $006F69E9
+PEDIDOSONLINE.exe: 00002114: 17:32:11 [TUniServerModule]:Shutting Down Server.
+PEDIDOSONLINE.exe: 00002114: 17:32:12 [TUniServerModule]:HTTP Server Stopped.
+PEDIDOSONLINE.exe: 00002114: 17:32:12 [TUniGUISessionManager]:Terminating Session manager.
+PEDIDOSONLINE.exe: 00002114: 17:32:12 [TUniGUISessionManager]:Stopping Cache Eraser...
+PEDIDOSONLINE.exe: 00002114: 17:32:12 [TUniGUISessionManager]:Cache Eraser Stopped.
+PEDIDOSONLINE.exe: 00002114: 17:32:12 [TUniGUISessionManager]:Destroying Worker Threads.
+PEDIDOSONLINE.exe: 00002114: 17:32:12 [TUniGUISessionManager]:Session manager terminated.
+PEDIDOSONLINE.exe: 00002114: 17:32:12 [TUniServerModule]:Server Shutdown Completed.
+PEDIDOSONLINE.exe: 00002114: 17:32:12 []:<-------------------------------------------------------------->
+PEDIDOSONLINE.exe: 00002114: 17:32:12 [Terminated]:Exit Code: 0
+PEDIDOSONLINE.exe: 00003548: 17:32:35 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00003548: 17:32:35 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00003548: 17:32:35 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00003548: 17:32:35 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00003548: 17:32:35 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+PEDIDOSONLINE.exe: 00003548: 17:32:36 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00003548: 17:32:36 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00005F80: 17:36:05 [127.0.0.1]:EUniSessionException : Sessão Inválida : Addr: $007EB0ED
+PEDIDOSONLINE.exe: 00003548: 17:37:07 [TUniServerModule]:Shutting Down Server.
+PEDIDOSONLINE.exe: 00003548: 17:37:07 [TUniServerModule]:HTTP Server Stopped.
+PEDIDOSONLINE.exe: 00003548: 17:37:07 [TUniGUISessionManager]:Terminating Session manager.
+PEDIDOSONLINE.exe: 00003548: 17:37:07 [TUniGUISessionManager]:Stopping Cache Eraser...
+PEDIDOSONLINE.exe: 00003548: 17:37:08 [TUniGUISessionManager]:Cache Eraser Stopped.
+PEDIDOSONLINE.exe: 00003548: 17:37:08 [TUniGUISessionManager]:Destroying Worker Threads.
+PEDIDOSONLINE.exe: 00003548: 17:37:08 [TUniGUISessionManager]:Session manager terminated.
+PEDIDOSONLINE.exe: 00003548: 17:37:08 [TUniServerModule]:Server Shutdown Completed.
+PEDIDOSONLINE.exe: 00003548: 17:37:08 []:<-------------------------------------------------------------->
+PEDIDOSONLINE.exe: 00003548: 17:37:08 [Terminated]:Exit Code: 0

@@ -1,0 +1,6 @@
+PEDIDOSONLINE.exe: 00000C04: 11:21:45 [127.0.0.1]:Failed Sequence Recovery: SeqId: 11, Event: formBuscaPedido
+PEDIDOSONLINE.exe: 00001154: 11:21:46 [127.0.0.1]:Failed Sequence Recovery: SeqId: 11, Event: formBuscaPedido
+PEDIDOSONLINE.exe: 00001154: 11:21:46 [127.0.0.1]:Sequence sent from cache:  SeqId: 11
+PEDIDOSONLINE.exe: 00001154: 11:21:46 [127.0.0.1]:Processed: Id: 11, Evt: formBuscaPedido, [nLHXaiNSMX104781A06]
+PEDIDOSONLINE.exe: 00000C04: 11:21:46 [127.0.0.1]:Sequence sent from cache:  SeqId: 11
+PEDIDOSONLINE.exe: 00000C04: 11:21:46 [127.0.0.1]:Processed: Id: 11, Evt: formBuscaPedido, [nLHXaiNSMX104781A06]

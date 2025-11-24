@@ -1,0 +1,3 @@
+PEDIDOSONLINE.exe: 00001300: 14:55:52 [127.0.0.1]:Failed Sequence Recovery: SeqId: 94, Event: cellclick
+PEDIDOSONLINE.exe: 00001300: 14:55:52 [127.0.0.1]:Sequence sent from cache:  SeqId: 94
+PEDIDOSONLINE.exe: 00001300: 14:55:52 [127.0.0.1]:Processed: Id: 94, Evt: cellclick, [fZDGLJQdaF1047FF57D]

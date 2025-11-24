@@ -1,0 +1,12 @@
+SicPedidosOnline.exe: 00001BB4: 00:16:13 [127.0.0.1]:Failed Sequence Recovery: SeqId: 24, Event: cellclick
+SicPedidosOnline.exe: 00001BB4: 00:16:13 [127.0.0.1]:Sequence sent from cache:  SeqId: 24
+SicPedidosOnline.exe: 00001BB4: 00:16:13 [127.0.0.1]:Processed: Id: 24, Evt: cellclick, [5mWTcyaohI105CBAB53]
+SicPedidosOnline.exe: 00005914: 00:23:36 [127.0.0.1]:Failed Sequence Recovery: SeqId: 70, Event: callback
+SicPedidosOnline.exe: 00005724: 00:23:36 [127.0.0.1]:Failed Sequence Recovery: SeqId: 70, Event: callback
+SicPedidosOnline.exe: 00005914: 00:23:38 [127.0.0.1]:Sequence sent from cache:  SeqId: 70
+SicPedidosOnline.exe: 00005914: 00:23:38 [127.0.0.1]:Processed: Id: 70, Evt: callback, [yWBhY2DtFF105CBAD0F]
+SicPedidosOnline.exe: 00005724: 00:23:38 [127.0.0.1]:Sequence sent from cache:  SeqId: 70
+SicPedidosOnline.exe: 00005724: 00:23:38 [127.0.0.1]:Processed: Id: 70, Evt: callback, [yWBhY2DtFF105CBAD0F]
+SicPedidosOnline.exe: 00004F94: 23:18:32 [127.0.0.1]:Failed Sequence Recovery: SeqId: 22, Event: cellclick
+SicPedidosOnline.exe: 00004F94: 23:18:32 [127.0.0.1]:Sequence sent from cache:  SeqId: 22
+SicPedidosOnline.exe: 00004F94: 23:18:32 [127.0.0.1]:Processed: Id: 22, Evt: cellclick, [GPxAEbZQdm105CD2255]

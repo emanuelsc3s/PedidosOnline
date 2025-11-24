@@ -1,0 +1,3 @@
+PEDIDOSONLINE.exe: 00005A0C: 08:01:47 [127.0.0.1]:Failed Sequence Recovery: SeqId: 33, Event: beforeclose
+PEDIDOSONLINE.exe: 00005A0C: 08:01:47 [127.0.0.1]:Sequence sent from cache:  SeqId: 33
+PEDIDOSONLINE.exe: 00005A0C: 08:01:47 [127.0.0.1]:Processed: Id: 33, Evt: beforeclose, [2TJ5CmqrHk1045F7A3A]

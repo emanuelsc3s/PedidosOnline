@@ -1,0 +1,9 @@
+SicPedidosOnline.exe: 00005A20: 00:16:34 [127.0.0.1]:Failed Sequence Recovery: SeqId: 37, Event: callback
+SicPedidosOnline.exe: 00005A20: 00:16:34 [127.0.0.1]:Sequence sent from cache:  SeqId: 37
+SicPedidosOnline.exe: 00005A20: 00:16:34 [127.0.0.1]:Processed: Id: 37, Evt: callback, [QXTxpIOie9105CD31C3]
+SicPedidosOnline.exe: 000050A8: 00:16:35 [127.0.0.1]:Failed Sequence Recovery: SeqId: 37, Event: callback
+SicPedidosOnline.exe: 00005068: 00:16:35 [127.0.0.1]:Failed Sequence Recovery: SeqId: 37, Event: callback
+SicPedidosOnline.exe: 000050A8: 00:16:35 [127.0.0.1]:Sequence sent from cache:  SeqId: 37
+SicPedidosOnline.exe: 000050A8: 00:16:35 [127.0.0.1]:Processed: Id: 37, Evt: callback, [QXTxpIOie9105CD31C3]
+SicPedidosOnline.exe: 00005068: 00:16:35 [127.0.0.1]:Sequence sent from cache:  SeqId: 37
+SicPedidosOnline.exe: 00005068: 00:16:35 [127.0.0.1]:Processed: Id: 37, Evt: callback, [QXTxpIOie9105CD31C3]

@@ -1,0 +1,294 @@
+PEDIDOSONLINE.exe: 00001044: 09:37:06 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000568: 09:37:06 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00002F24: 09:37:15 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 00002574: 09:37:15 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 00002B24: 09:53:43 [TUniServerModule]:Shutting Down Server.
+PEDIDOSONLINE.exe: 00002B24: 09:53:44 [TUniServerModule]:HTTP Server Stopped.
+PEDIDOSONLINE.exe: 00002B24: 09:53:44 [TUniGUISessionManager]:Terminating Session manager.
+PEDIDOSONLINE.exe: 00002B24: 09:53:44 [TUniGUISessionManager]:Stopping Cache Eraser...
+PEDIDOSONLINE.exe: 00002B24: 09:53:44 [TUniGUISessionManager]:Cache Eraser Stopped.
+PEDIDOSONLINE.exe: 00002B24: 09:53:45 [TUniGUISessionManager]:Destroying Worker Threads.
+PEDIDOSONLINE.exe: 00002B24: 09:53:45 [TUniGUISessionManager]:Session manager terminated.
+PEDIDOSONLINE.exe: 00002B24: 09:53:45 [TUniServerModule]:Server Shutdown Completed.
+PEDIDOSONLINE.exe: 00002B24: 09:53:45 []:<-------------------------------------------------------------->
+PEDIDOSONLINE.exe: 00002B24: 09:53:45 [Terminated]:Exit Code: 0
+PEDIDOSONLINE.exe: 000014A4: 09:53:54 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 000014A4: 09:53:54 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 000014A4: 09:53:54 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 000014A4: 09:53:54 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 000014A4: 09:53:54 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+PEDIDOSONLINE.exe: 000014A4: 09:53:54 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 000014A4: 09:53:54 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00001B08: 09:53:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00001408: 09:53:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000890: 09:53:59 [127.0.0.1]:EUniSessionException : Sessão Inválida : Addr: $007EB421
+PEDIDOSONLINE.exe: 000026A0: 09:54:16 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 00002E58: 09:54:16 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 00002AD0: 09:54:41 [Dynamic SQL Error
+SQL error code = -206
+Column unknown
+I.ALTERACAO_DESTAQUE
+At line 5, column 34-127.0.0.1]:EIBInterBaseError : Dynamic SQL Error
+SQL error code = -206
+Column unknown
+I.ALTERACAO_DESTAQUE
+At line 5, column 34 : Addr: $00944143
+PEDIDOSONLINE.exe: 00002A90: 09:54:53 [127.0.0.1]:EIBInterBaseError : Dynamic SQL Error
+SQL error code = -206
+Column unknown
+ANALISE_USUARIO
+At line 1, column 24 : Addr: $00944143
+PEDIDOSONLINE.exe: 00000444: 09:55:34 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00000444: 09:55:34 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00000444: 09:55:34 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00000444: 09:55:34 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00000444: 09:55:34 [TUniServerModule]:Cache Folder Erased. <14> Files deleted.
+PEDIDOSONLINE.exe: 00000444: 09:55:34 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00000444: 09:55:34 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 000032B4: 09:55:37 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000890: 09:55:37 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000310: 09:55:52 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 00002D48: 09:55:53 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 0000285C: 09:56:04 [Missing Connection or ConnectionString-127.0.0.1]:EDatabaseError : Missing Connection or ConnectionString : Addr: $0067C5CF
+PEDIDOSONLINE.exe: 00000E94: 09:56:22 [127.0.0.1]:EIBInterBaseError : Dynamic SQL Error
+SQL error code = -206
+Column unknown
+ANALISE_USUARIO
+At line 1, column 24 : Addr: $00944143
+PEDIDOSONLINE.exe: 00000E94: 09:56:33 [127.0.0.1]:EIBInterBaseError : Dynamic SQL Error
+SQL error code = -206
+Column unknown
+ANALISE_USUARIO_ID
+At line 2, column 2 : Addr: $00944143
+PEDIDOSONLINE.exe: 00002258: 10:03:22 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00002258: 10:03:22 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00002258: 10:03:22 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00002258: 10:03:22 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00002258: 10:03:22 [TUniServerModule]:Cache Folder Erased. <6> Files deleted.
+PEDIDOSONLINE.exe: 00002258: 10:03:22 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00002258: 10:03:22 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00001C38: 10:03:25 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00001F7C: 10:03:25 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00003384: 10:03:50 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 00001CCC: 10:03:51 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 00001F7C: 10:04:07 [Missing Connection or ConnectionString-127.0.0.1]:EDatabaseError : Missing Connection or ConnectionString : Addr: $0067C5CF
+PEDIDOSONLINE.exe: 000010D4: 10:04:51 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 000010D4: 10:04:51 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 000010D4: 10:04:51 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 000010D4: 10:04:51 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 000010D4: 10:04:51 [TUniServerModule]:Cache Folder Erased. <6> Files deleted.
+PEDIDOSONLINE.exe: 000010D4: 10:04:51 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 000010D4: 10:04:52 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00000A18: 10:04:55 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000026A0: 10:04:55 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000007B8: 10:05:10 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 00002F9C: 10:05:10 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 00002484: 10:06:56 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\favicon.ico
+PEDIDOSONLINE.exe: 00001058: 10:07:40 [Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TBORCAMENTO_ITEM_PRECO
+At line 4, column 30-127.0.0.1]:EIBInterBaseError : Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TBORCAMENTO_ITEM_PRECO
+At line 4, column 30 : Addr: $0094383F
+PEDIDOSONLINE.exe: 000014A8: 10:08:38 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 000014A8: 10:08:38 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 000014A8: 10:08:38 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 000014A8: 10:08:38 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 000014A8: 10:08:38 [TUniServerModule]:Cache Folder Erased. <25> Files deleted.
+PEDIDOSONLINE.exe: 000014A8: 10:08:38 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 000014A8: 10:08:38 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00001044: 10:08:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000027C4: 10:08:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00002644: 10:09:05 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 00001374: 10:09:06 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 000013CC: 10:25:04 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 000013CC: 10:25:04 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 000013CC: 10:25:04 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 000013CC: 10:25:04 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 000013CC: 10:25:04 [TUniServerModule]:Cache Folder Erased. <6> Files deleted.
+PEDIDOSONLINE.exe: 000013CC: 10:25:04 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 000013CC: 10:25:04 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 000021B0: 10:25:10 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00001274: 10:25:11 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00002580: 10:25:33 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 00002528: 10:25:33 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 00002364: 10:33:22 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00002364: 10:33:22 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00002364: 10:33:22 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00002364: 10:33:22 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00002364: 10:33:22 [TUniServerModule]:Cache Folder Erased. <6> Files deleted.
+PEDIDOSONLINE.exe: 00002364: 10:33:23 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00002364: 10:33:23 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 000032EC: 10:33:26 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00002B30: 10:33:26 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000027A4: 10:33:42 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 00000984: 10:33:42 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 00002500: 10:40:34 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00002500: 10:40:34 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00002500: 10:40:34 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00002500: 10:40:34 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00002500: 10:40:34 [TUniServerModule]:Cache Folder Erased. <29> Files deleted.
+PEDIDOSONLINE.exe: 00002500: 10:40:35 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00002500: 10:40:35 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 000012F8: 10:40:39 [127.0.0.1]:EUniSessionException : Sessão Inválida : Addr: $007EAD35
+PEDIDOSONLINE.exe: 00001E64: 10:40:40 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000036A4: 10:40:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00001DB8: 10:40:59 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 00000384: 10:40:59 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 00003714: 10:49:25 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00003714: 10:49:25 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00003714: 10:49:25 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00003714: 10:49:25 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00003714: 10:49:25 [TUniServerModule]:Cache Folder Erased. <6> Files deleted.
+PEDIDOSONLINE.exe: 00003714: 10:49:26 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00003714: 10:49:26 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00000A30: 10:49:32 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000F40: 10:49:32 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00002574: 10:49:46 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 00001060: 10:49:46 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 00002CC8: 10:54:56 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00002CC8: 10:54:56 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00002CC8: 10:54:56 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00002CC8: 10:54:56 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00002CC8: 10:54:56 [TUniServerModule]:Cache Folder Erased. <17> Files deleted.
+PEDIDOSONLINE.exe: 00002CC8: 10:54:56 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00002CC8: 10:54:56 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 000018C8: 10:55:02 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000035EC: 10:55:03 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000006D4: 10:55:29 [127.0.0.1]:EUniSessionException : Sessão Inválida : Addr: $007EAD35
+PEDIDOSONLINE.exe: 00002194: 10:57:21 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 000019A8: 10:57:21 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 00001A68: 11:07:51 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00001A68: 11:07:51 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00001A68: 11:07:51 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00001A68: 11:07:51 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00001A68: 11:07:51 [TUniServerModule]:Cache Folder Erased. <19> Files deleted.
+PEDIDOSONLINE.exe: 00001A68: 11:07:52 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00001A68: 11:07:52 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00003544: 11:07:55 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00003208: 11:07:55 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000034DC: 11:08:08 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 00003028: 11:08:08 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 00002DA0: 11:13:37 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00002DA0: 11:13:37 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00002DA0: 11:13:37 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00002DA0: 11:13:37 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00002DA0: 11:13:37 [TUniServerModule]:Cache Folder Erased. <1> Files deleted.
+PEDIDOSONLINE.exe: 00002DA0: 11:13:38 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00002DA0: 11:13:38 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00002F30: 11:13:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000035D8: 11:13:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 0000284C: 11:14:20 ['27.06.2019' is not a valid date-127.0.0.1]:EConvertError : '27.06.2019' is not a valid date : Addr: $00424F32
+PEDIDOSONLINE.exe: 00003040: 11:14:55 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00003040: 11:14:55 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00003040: 11:14:55 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00003040: 11:14:55 [TUniServerModule]:Cache Folder Erased. <4> Files deleted.
+PEDIDOSONLINE.exe: 00003040: 11:14:56 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00003040: 11:14:56 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00003404: 11:14:56 [127.0.0.1]:EUniSessionException : Sessão Inválida : Addr: $007EAD35
+PEDIDOSONLINE.exe: 00003404: 11:14:56 [127.0.0.1]:EUniSessionException : Sessão Inválida : Addr: $007EAD35
+PEDIDOSONLINE.exe: 00003404: 11:14:56 [127.0.0.1]:EUniSessionException : Sessão Inválida : Addr: $007EAD35
+PEDIDOSONLINE.exe: 00003404: 11:14:56 [127.0.0.1]:EUniSessionException : Sessão Inválida : Addr: $007EAD35
+PEDIDOSONLINE.exe: 000027A0: 11:14:59 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00003404: 11:14:59 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00002A84: 11:15:00 [127.0.0.1]:EUniSessionException : Sessão Inválida : Addr: $007EAD35
+PEDIDOSONLINE.exe: 00002A84: 11:15:00 [127.0.0.1]:EUniSessionException : Sessão Inválida : Addr: $007EAD35
+PEDIDOSONLINE.exe: 00002A84: 11:15:00 [127.0.0.1]:EUniSessionException : Sessão Inválida : Addr: $007EAD35
+PEDIDOSONLINE.exe: 00002A84: 11:15:00 [127.0.0.1]:EUniSessionException : Sessão Inválida : Addr: $007EAD35
+PEDIDOSONLINE.exe: 00002A84: 11:15:00 [127.0.0.1]:EUniSessionException : Sessão Inválida : Addr: $007EAD35
+PEDIDOSONLINE.exe: 00003568: 11:15:08 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 00002A84: 11:15:08 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 00003040: 11:21:12 [TUniServerModule]:Shutting Down Server.
+PEDIDOSONLINE.exe: 00000628: 11:21:12 [Indy]:EIdNotConnected : Not Connected : Addr: $006FFFE6
+PEDIDOSONLINE.exe: 00003234: 11:21:12 [Indy]:EIdNotConnected : Not Connected : Addr: $006FFFE6
+PEDIDOSONLINE.exe: 00000F08: 11:21:12 [Indy]:EIdNotConnected : Not Connected : Addr: $006FFFE6
+PEDIDOSONLINE.exe: 00003040: 11:21:13 [TUniServerModule]:HTTP Server Stopped.
+PEDIDOSONLINE.exe: 00003040: 11:21:13 [TUniGUISessionManager]:Terminating Session manager.
+PEDIDOSONLINE.exe: 00003040: 11:21:13 [TUniGUISessionManager]:Stopping Cache Eraser...
+PEDIDOSONLINE.exe: 00003040: 11:21:13 [TUniGUISessionManager]:Cache Eraser Stopped.
+PEDIDOSONLINE.exe: 00003040: 11:21:13 [TUniGUISessionManager]:Destroying Worker Threads.
+PEDIDOSONLINE.exe: 00003040: 11:21:13 [TUniGUISessionManager]:Session manager terminated.
+PEDIDOSONLINE.exe: 00003040: 11:21:13 [TUniServerModule]:Server Shutdown Completed.
+PEDIDOSONLINE.exe: 00003040: 11:21:13 []:<-------------------------------------------------------------->
+PEDIDOSONLINE.exe: 00003040: 11:21:13 [Terminated]:Exit Code: 0
+PEDIDOSONLINE.exe: 00003478: 11:21:21 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00003478: 11:21:21 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00003478: 11:21:21 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00003478: 11:21:21 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00003478: 11:21:21 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+PEDIDOSONLINE.exe: 00003478: 11:21:22 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00003478: 11:21:22 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00001CB0: 11:21:25 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00003544: 11:21:26 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00001B4C: 11:21:30 [127.0.0.1]:EUniSessionException : Sessão Inválida : Addr: $007EAD35
+PEDIDOSONLINE.exe: 00002710: 11:21:43 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 000019D8: 11:21:44 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 000032BC: 11:22:26 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 000032BC: 11:22:26 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 000032BC: 11:22:26 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 000032BC: 11:22:26 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 000032BC: 11:22:26 [TUniServerModule]:Cache Folder Erased. <5> Files deleted.
+PEDIDOSONLINE.exe: 000032BC: 11:22:27 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 000032BC: 11:22:27 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00000550: 11:22:30 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00001EB8: 11:22:30 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000B50: 11:22:43 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 0000243C: 11:22:43 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 00003460: 11:28:32 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00003460: 11:28:32 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00003460: 11:28:32 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00003460: 11:28:32 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00003460: 11:28:32 [TUniServerModule]:Cache Folder Erased. <5> Files deleted.
+PEDIDOSONLINE.exe: 00003460: 11:28:32 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00003460: 11:28:32 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 000034F8: 11:28:36 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00002A38: 11:28:36 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000022F8: 11:28:50 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 00002A24: 11:28:50 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 000013B0: 11:29:51 [Database not assigned-127.0.0.1]:EIBClientError : Database not assigned : Addr: $00943452
+PEDIDOSONLINE.exe: 00003278: 11:31:30 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00003278: 11:31:31 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00003278: 11:31:31 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00003278: 11:31:31 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00003278: 11:31:31 [TUniServerModule]:Cache Folder Erased. <20> Files deleted.
+PEDIDOSONLINE.exe: 00003278: 11:31:31 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00003278: 11:31:31 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00002AD8: 11:31:35 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00003728: 11:31:35 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000278: 11:31:52 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 00000434: 11:31:52 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 00002B50: 11:32:00 [Database not assigned-127.0.0.1]:EIBClientError : Database not assigned : Addr: $00943452
+PEDIDOSONLINE.exe: 00002E38: 11:32:51 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00002E38: 11:32:51 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00002E38: 11:32:51 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00002E38: 11:32:51 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00002E38: 11:32:52 [TUniServerModule]:Cache Folder Erased. <15> Files deleted.
+PEDIDOSONLINE.exe: 00002E38: 11:32:52 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00002E38: 11:32:52 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 0000082C: 11:32:55 [127.0.0.1]:EUniSessionException : Sessão Inválida : Addr: $007EAD35
+PEDIDOSONLINE.exe: 000013B0: 11:32:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 000007D0: 11:32:58 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000AE0: 11:33:28 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\css\sb-admin-2.css
+PEDIDOSONLINE.exe: 00002D74: 11:33:28 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 00002D2C: 11:33:37 [Database not assigned-127.0.0.1]:EIBClientError : Database not assigned : Addr: $00943452
+PEDIDOSONLINE.exe: 00002F00: 11:34:59 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00002F00: 11:34:59 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00002F00: 11:34:59 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00002F00: 11:34:59 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00002F00: 11:34:59 [TUniServerModule]:Cache Folder Erased. <15> Files deleted.
+PEDIDOSONLINE.exe: 00002F00: 11:35:00 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00002F00: 11:35:00 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00001A68: 11:35:20 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00001A68: 11:35:20 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00001A68: 11:35:20 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00001A68: 11:35:20 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00001A68: 11:35:20 [TUniServerModule]:Cache Folder Erased. <2> Files deleted.
+PEDIDOSONLINE.exe: 00001A68: 11:35:21 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00001A68: 11:35:21 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 0000364C: 11:35:24 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 0000235C: 11:35:24 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00002558: 11:35:38 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\vendor\fontawesome-free\css\all.min.css
+PEDIDOSONLINE.exe: 000029F8: 11:35:38 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\cards-faturamento\css\sb-admin-2.css

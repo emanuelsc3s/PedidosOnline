@@ -1,0 +1,3 @@
+SicPedidosOnline.exe: 00003460: 09:50:39 [127.0.0.1]:Failed Sequence Recovery: SeqId: 82, Event: callback
+SicPedidosOnline.exe: 00003460: 09:50:41 [127.0.0.1]:Sequence sent from cache:  SeqId: 82
+SicPedidosOnline.exe: 00003460: 09:50:41 [127.0.0.1]:Processed: Id: 82, Evt: callback, [wXERzSVf1J106C4FECE]

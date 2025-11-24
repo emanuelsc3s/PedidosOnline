@@ -1,0 +1,9 @@
+PEDIDOSONLINE.exe: 00001B6C: 09:56:22 [127.0.0.1]:Sequence Error Timeout : TDiff:14375, Event: tabchange, Expected: 28, Received: 30, [yEtI5LdoaL104505730]
+PEDIDOSONLINE.exe: 00001B6C: 09:56:22 [127.0.0.1]:Failed Sequence Reset to: 28
+PEDIDOSONLINE.exe: 00001250: 09:56:22 [127.0.0.1]:Sequence Error Timeout : TDiff:14531, Event: data, Expected: 28, Received: 29, [yEtI5LdoaL104505730]
+PEDIDOSONLINE.exe: 00002DA0: 09:56:27 [127.0.0.1]:Failed Sequence Recovery: SeqId: 29, Event: data
+PEDIDOSONLINE.exe: 00002DA0: 09:56:27 [127.0.0.1]:Processing: Id: 29, Evt: data
+PEDIDOSONLINE.exe: 00002A00: 09:56:27 [127.0.0.1]:Failed Sequence Recovery: SeqId: 30, Event: tabchange
+PEDIDOSONLINE.exe: 00002DA0: 09:56:27 [127.0.0.1]:Processed: Id: 29, Evt: data, [yEtI5LdoaL104505730]
+PEDIDOSONLINE.exe: 00002A00: 09:56:27 [127.0.0.1]:Processing: Id: 30, Evt: tabchange
+PEDIDOSONLINE.exe: 00002A00: 09:56:27 [127.0.0.1]:Processed: Id: 30, Evt: tabchange, [yEtI5LdoaL104505730]

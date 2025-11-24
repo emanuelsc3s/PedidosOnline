@@ -1,0 +1,6 @@
+SicPedidosOnline.exe: 0000327C: 09:16:37 []:>--------------------------------------------------------------<
+SicPedidosOnline.exe: 0000327C: 09:16:37 [TUniServerModule]:Server First Init.
+SicPedidosOnline.exe: 0000327C: 09:16:37 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+SicPedidosOnline.exe: 0000327C: 09:16:37 [TUniServerModule]:HTTP Server Started on Port: 8077
+SicPedidosOnline.exe: 00003D30: 09:16:38 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00002888: 09:16:38 [HandleFileRequest[127.0.0.1]]:File not found: C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css

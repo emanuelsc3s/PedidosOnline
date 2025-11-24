@@ -1,0 +1,14 @@
+PEDIDOSONLINE.exe: 000004FC: 09:52:51 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 000004FC: 09:52:51 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 000004FC: 09:52:51 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 000004FC: 09:52:51 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 000004FC: 09:52:51 [TUniServerModule]:Cache Folder Erased. <12> Files deleted.
+PEDIDOSONLINE.exe: 000004FC: 09:52:52 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 000004FC: 09:52:52 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 000011F0: 09:58:36 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 000011F0: 09:58:36 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 000011F0: 09:58:36 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 000011F0: 09:58:36 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 000011F0: 09:58:36 [TUniServerModule]:Cache Folder Erased. <4> Files deleted.
+PEDIDOSONLINE.exe: 000011F0: 09:58:36 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 000011F0: 09:58:36 [TUniServerModule]:HTTP Server Started. Port: 8077

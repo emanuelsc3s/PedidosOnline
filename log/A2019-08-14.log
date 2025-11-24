@@ -1,0 +1,45 @@
+PEDIDOSONLINE.exe: 00000BCC: 10:57:08 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00000BCC: 10:57:08 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00000BCC: 10:57:08 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00000BCC: 10:57:08 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00000BCC: 10:57:08 [TUniServerModule]:Cache Folder Erased. <7> Files deleted.
+PEDIDOSONLINE.exe: 00000BCC: 10:57:11 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00000BCC: 10:57:12 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00000868: 11:03:37 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00000868: 11:03:37 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00000868: 11:03:37 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00000868: 11:03:37 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00000868: 11:03:37 [TUniServerModule]:Cache Folder Erased. <24> Files deleted.
+PEDIDOSONLINE.exe: 00000868: 11:03:40 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00000868: 11:03:41 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00001330: 14:27:25 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00001330: 14:27:25 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00001330: 14:27:25 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00001330: 14:27:25 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00001330: 14:27:25 [TUniServerModule]:Cache Folder Erased. <22> Files deleted.
+PEDIDOSONLINE.exe: 00001330: 14:27:25 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00001330: 14:27:25 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00000A88: 14:29:13 [HandleFileRequest[127.0.0.1]]:Access denied: dristimed.rtf.rtf.
+PEDIDOSONLINE.exe: 000013A8: 14:30:47 [HandleFileRequest[127.0.0.1]]:Access denied: dristimed.rtf.rtf.
+PEDIDOSONLINE.exe: 00000644: 14:31:07 [HandleFileRequest[127.0.0.1]]:Access denied: dristimed.rtf.rtf.
+PEDIDOSONLINE.exe: 000011B4: 14:40:34 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 000011B4: 14:40:34 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 000011B4: 14:40:34 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 000011B4: 14:40:34 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 000011B4: 14:40:34 [TUniServerModule]:Cache Folder Erased. <23> Files deleted.
+PEDIDOSONLINE.exe: 000011B4: 14:40:34 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 000011B4: 14:40:35 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 000011C0: 14:43:08 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 000011C0: 14:43:08 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 000011C0: 14:43:08 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 000011C0: 14:43:08 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 000011C0: 14:43:08 [TUniServerModule]:Cache Folder Erased. <3> Files deleted.
+PEDIDOSONLINE.exe: 000011C0: 14:43:09 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 000011C0: 14:43:09 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00000F78: 15:49:43 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00000F78: 15:49:44 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00000F78: 15:49:44 [TUniServerModule]:Debug Mode = ON
+PEDIDOSONLINE.exe: 00000F78: 15:49:44 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00000F78: 15:49:44 [TUniServerModule]:Cache Folder Erased. <23> Files deleted.
+PEDIDOSONLINE.exe: 00000F78: 15:49:44 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00000F78: 15:49:45 [TUniServerModule]:HTTP Server Started. Port: 8077

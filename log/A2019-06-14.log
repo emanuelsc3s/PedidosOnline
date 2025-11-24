@@ -1,0 +1,79 @@
+PEDIDOSONLINE.exe: 000004E4: 20:22:31 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 000004E4: 20:22:31 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 000004E4: 20:22:32 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 000004E4: 20:22:32 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 00002060: 20:22:33 [127.0.0.1]:EIBInterBaseError : Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TBPARAMETROS
+At line 1, column 28 : Addr: $00933E67
+PEDIDOSONLINE.exe: 00002060: 20:22:33 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00003728: 20:22:33 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00000E4C: 20:22:59 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\pagina\css\bootstrap.css
+PEDIDOSONLINE.exe: 000030F0: 20:22:59 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\pagina\css\style.css
+PEDIDOSONLINE.exe: 0000350C: 20:22:59 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\pagina\css\font-awesome.min.css
+PEDIDOSONLINE.exe: 000005C4: 20:22:59 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\pagina\img\logomarca.png
+PEDIDOSONLINE.exe: 00003274: 20:22:59 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\pagina\js\bootstrap.min.js
+PEDIDOSONLINE.exe: 000004E4: 20:29:18 [TUniServerModule]:Shutting Down Server.
+PEDIDOSONLINE.exe: 00003454: 20:29:18 [Indy]:EIdNotConnected : Not Connected : Addr: $006FAF6A
+PEDIDOSONLINE.exe: 000020A4: 20:29:18 [Indy]:EIdNotConnected : Not Connected : Addr: $006FAF6A
+PEDIDOSONLINE.exe: 000004E4: 20:29:19 [TUniServerModule]:HTTP Server Stopped.
+PEDIDOSONLINE.exe: 000004E4: 20:29:19 [TUniGUISessionManager]:Terminating Session manager.
+PEDIDOSONLINE.exe: 000004E4: 20:29:19 [TUniGUISessionManager]:Stopping Cache Eraser...
+PEDIDOSONLINE.exe: 000004E4: 20:29:19 [TUniGUISessionManager]:Cache Eraser Stopped.
+PEDIDOSONLINE.exe: 000004E4: 20:29:19 [TUniGUISessionManager]:Destroying Worker Threads.
+PEDIDOSONLINE.exe: 000004E4: 20:29:19 [TUniGUISessionManager]:Session manager terminated.
+PEDIDOSONLINE.exe: 000004E4: 20:29:19 [TUniServerModule]:Server Shutdown Completed.
+PEDIDOSONLINE.exe: 000004E4: 20:29:19 []:<-------------------------------------------------------------->
+PEDIDOSONLINE.exe: 000004E4: 20:29:19 [Terminated]:Exit Code: 0
+PEDIDOSONLINE.exe: 00001BEC: 20:56:40 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00001BEC: 20:56:40 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00001BEC: 20:56:40 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00001BEC: 20:56:40 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+PEDIDOSONLINE.exe: 00001BEC: 20:56:41 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00001BEC: 20:56:41 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 000035E8: 20:56:43 [127.0.0.1]:EIBInterBaseError : Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TBPARAMETROS
+At line 1, column 28 : Addr: $00942F13
+PEDIDOSONLINE.exe: 000035E8: 20:56:43 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00002FA4: 20:56:43 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00002B1C: 20:58:12 [127.0.0.1]:EIBInterBaseError : Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 7, column 2
+and : Addr: $00942F13
+PEDIDOSONLINE.exe: 00002B1C: 20:58:14 [127.0.0.1]:EIBInterBaseError : Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 7, column 2
+and : Addr: $00942F13
+PEDIDOSONLINE.exe: 00001BEC: 20:58:26 [TUniServerModule]:Shutting Down Server.
+PEDIDOSONLINE.exe: 000026DC: 20:58:26 [Indy]:EIdNotConnected : Not Connected : Addr: $006FFE32
+PEDIDOSONLINE.exe: 00001F24: 20:58:26 [Indy]:EInvalidPointer : Invalid pointer operation : Addr: $004097E5
+PEDIDOSONLINE.exe: 0000288C: 20:58:26 [Indy]:EIdNotConnected : Not Connected : Addr: $006FFE32
+PEDIDOSONLINE.exe: 000019BC: 20:58:26 [Indy]:EIdNotConnected : Not Connected : Addr: $006FFE32
+PEDIDOSONLINE.exe: 00001A24: 20:58:26 [Indy]:EIdNotConnected : Not Connected : Addr: $006FFE32
+PEDIDOSONLINE.exe: 00000820: 20:58:26 [Indy]:EInvalidPointer : Invalid pointer operation : Addr: $004097E5
+PEDIDOSONLINE.exe: 00001BEC: 20:58:27 [ShutDownWebServer]:EAccessViolation : Access violation at address 00726057 in module 'PEDIDOSONLINE.exe'. Read of address 00000000 : Addr: $00726057
+PEDIDOSONLINE.exe: 00001BEC: 20:58:27 [TUniServerModule]:HTTP Server Stopped.
+PEDIDOSONLINE.exe: 00001BEC: 20:58:27 [TUniGUISessionManager]:Terminating Session manager.
+PEDIDOSONLINE.exe: 00001BEC: 20:58:27 [TUniGUISessionManager]:Stopping Cache Eraser...
+PEDIDOSONLINE.exe: 00001BEC: 20:58:27 [TUniGUISessionManager]:Cache Eraser Stopped.
+PEDIDOSONLINE.exe: 00001BEC: 20:58:27 [TUniGUISessionManager]:Destroying Worker Threads.
+PEDIDOSONLINE.exe: 00001BEC: 20:58:27 [TUniGUISessionManager]:Session manager terminated.
+PEDIDOSONLINE.exe: 00001BEC: 20:58:27 [TUniServerModule]:Server Shutdown Completed.
+PEDIDOSONLINE.exe: 00001BEC: 20:58:27 []:<-------------------------------------------------------------->
+PEDIDOSONLINE.exe: 00001BEC: 20:58:27 [Terminated]:Exit Code: 0
+PEDIDOSONLINE.exe: 00000E40: 20:59:41 []:>--------------------------------------------------------------<
+PEDIDOSONLINE.exe: 00000E40: 20:59:41 [TUniServerModule]:Server First Init.
+PEDIDOSONLINE.exe: 00000E40: 20:59:41 [TUniServerModule]:Erasing Cache Folder...
+PEDIDOSONLINE.exe: 00000E40: 20:59:41 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+PEDIDOSONLINE.exe: 00000E40: 20:59:42 [TUniServerModule]:Starting HTTP Server...
+PEDIDOSONLINE.exe: 00000E40: 20:59:42 [TUniServerModule]:HTTP Server Started. Port: 8077
+PEDIDOSONLINE.exe: 000030E4: 20:59:43 [127.0.0.1]:EIBInterBaseError : Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TBPARAMETROS
+At line 1, column 28 : Addr: $00942F13
+PEDIDOSONLINE.exe: 000030E4: 20:59:44 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css
+PEDIDOSONLINE.exe: 00002658: 20:59:44 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\files\font-awesome\css\fontawesome.min.css

@@ -1,0 +1,22 @@
+SicPedidosOnline.exe: 000068E8: 09:02:05 [127.0.0.1]:Sequence Error Timeout : TDiff:94015, Event: activate, Expected: 143, Received: 144, [WhsuFPTqBp105CF461C]
+SicPedidosOnline.exe: 000068E8: 09:02:05 [127.0.0.1]:Failed Sequence Reset to: 143
+SicPedidosOnline.exe: 00006304: 09:02:06 [127.0.0.1]:Failed Sequence Recovery: SeqId: 143, Event: beforeclose
+SicPedidosOnline.exe: 00006304: 09:02:06 [127.0.0.1]:Sequence sent from cache:  SeqId: 143
+SicPedidosOnline.exe: 00006304: 09:02:06 [127.0.0.1]:Processed: Id: 143, Evt: beforeclose, [WhsuFPTqBp105CF461C]
+SicPedidosOnline.exe: 00003368: 09:02:06 [127.0.0.1]:Failed Sequence Recovery: SeqId: 144, Event: activate
+SicPedidosOnline.exe: 00003368: 09:02:06 [127.0.0.1]:Processing: Id: 144, Evt: activate
+SicPedidosOnline.exe: 00006754: 09:02:06 [127.0.0.1]:Failed Sequence Recovery: SeqId: 142, Event: actioncomplete
+SicPedidosOnline.exe: 00003368: 09:02:06 [127.0.0.1]:Processed: Id: 144, Evt: activate, [WhsuFPTqBp105CF461C]
+SicPedidosOnline.exe: 00006754: 09:02:06 [127.0.0.1]:Sequence sent from cache:  SeqId: 142
+SicPedidosOnline.exe: 00006754: 09:02:06 [127.0.0.1]:Processed: Id: 142, Evt: actioncomplete, [WhsuFPTqBp105CF461C]
+SicPedidosOnline.exe: 00004A40: 09:02:06 [127.0.0.1]:Failed Sequence Recovery: SeqId: 144, Event: activate
+SicPedidosOnline.exe: 000005F8: 09:02:06 [127.0.0.1]:Failed Sequence Recovery: SeqId: 143, Event: beforeclose
+SicPedidosOnline.exe: 00004A40: 09:02:06 [127.0.0.1]:Sequence sent from cache:  SeqId: 144
+SicPedidosOnline.exe: 00004A40: 09:02:06 [127.0.0.1]:Processed: Id: 144, Evt: activate, [WhsuFPTqBp105CF461C]
+SicPedidosOnline.exe: 000005F8: 09:02:06 [127.0.0.1]:Sequence sent from cache:  SeqId: 143
+SicPedidosOnline.exe: 000005F8: 09:02:06 [127.0.0.1]:Processed: Id: 143, Evt: beforeclose, [WhsuFPTqBp105CF461C]
+SicPedidosOnline.exe: 0000601C: 09:02:06 [127.0.0.1]:Failed Sequence Recovery: SeqId: 142, Event: actioncomplete
+SicPedidosOnline.exe: 0000601C: 09:02:06 [127.0.0.1]:Sequence sent from cache:  SeqId: 142
+SicPedidosOnline.exe: 0000601C: 09:02:06 [127.0.0.1]:Processed: Id: 142, Evt: actioncomplete, [WhsuFPTqBp105CF461C]
+SicPedidosOnline.exe: 0000513C: 12:03:38 [127.0.0.1]:Failed Sequence Recovery: SeqId: 78, Event: callback
+SicPedidosOnline.exe: 00005E50: 12:03:38 [127.0.0.1]:Failed Sequence Recovery: SeqId: 78, Event: callback

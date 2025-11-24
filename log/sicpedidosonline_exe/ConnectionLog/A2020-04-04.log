@@ -1,0 +1,145 @@
+SicPedidosOnline.exe: 000066D4: 00:52:43 [127.0.0.1]:Failed Sequence Recovery: SeqId: 43, Event: beforeclose
+SicPedidosOnline.exe: 000069D8: 00:52:44 [127.0.0.1]:Failed Sequence Recovery: SeqId: 42, Event: actioncomplete
+SicPedidosOnline.exe: 00004870: 00:52:44 [127.0.0.1]:Failed Sequence Recovery: SeqId: 43, Event: beforeclose
+SicPedidosOnline.exe: 000066D4: 00:52:44 [127.0.0.1]:Sequence sent from cache:  SeqId: 43
+SicPedidosOnline.exe: 000066D4: 00:52:44 [127.0.0.1]:Processed: Id: 43, Evt: beforeclose, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00007534: 00:52:44 [127.0.0.1]:Failed Sequence Recovery: SeqId: 42, Event: actioncomplete
+SicPedidosOnline.exe: 000069D8: 00:52:44 [127.0.0.1]:Sequence sent from cache:  SeqId: 42
+SicPedidosOnline.exe: 000069D8: 00:52:44 [127.0.0.1]:Processed: Id: 42, Evt: actioncomplete, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00004870: 00:52:44 [127.0.0.1]:Sequence sent from cache:  SeqId: 43
+SicPedidosOnline.exe: 00006840: 00:52:44 [127.0.0.1]:Failed Sequence Recovery: SeqId: 44, Event: activate
+SicPedidosOnline.exe: 00004870: 00:52:44 [127.0.0.1]:Processed: Id: 43, Evt: beforeclose, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00002C78: 00:52:44 [127.0.0.1]:Failed Sequence Recovery: SeqId: 42, Event: actioncomplete
+SicPedidosOnline.exe: 00000698: 00:52:44 [127.0.0.1]:Failed Sequence Recovery: SeqId: 43, Event: beforeclose
+SicPedidosOnline.exe: 00007534: 00:52:44 [127.0.0.1]:Sequence sent from cache:  SeqId: 42
+SicPedidosOnline.exe: 00007534: 00:52:44 [127.0.0.1]:Processed: Id: 42, Evt: actioncomplete, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00001438: 00:52:44 [127.0.0.1]:Failed Sequence Recovery: SeqId: 44, Event: activate
+SicPedidosOnline.exe: 00000698: 00:52:44 [127.0.0.1]:Sequence sent from cache:  SeqId: 43
+SicPedidosOnline.exe: 00000698: 00:52:44 [127.0.0.1]:Processed: Id: 43, Evt: beforeclose, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00002C78: 00:52:44 [127.0.0.1]:Sequence sent from cache:  SeqId: 42
+SicPedidosOnline.exe: 00002C78: 00:52:44 [127.0.0.1]:Processed: Id: 42, Evt: actioncomplete, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00001438: 00:52:44 [127.0.0.1]:Sequence sent from cache:  SeqId: 44
+SicPedidosOnline.exe: 00001438: 00:52:44 [127.0.0.1]:Processed: Id: 44, Evt: activate, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00006840: 00:52:44 [127.0.0.1]:Sequence sent from cache:  SeqId: 44
+SicPedidosOnline.exe: 00006840: 00:52:44 [127.0.0.1]:Processed: Id: 44, Evt: activate, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00000FB4: 00:52:44 [127.0.0.1]:Failed Sequence Recovery: SeqId: 43, Event: beforeclose
+SicPedidosOnline.exe: 00000FB4: 00:52:44 [127.0.0.1]:Sequence sent from cache:  SeqId: 43
+SicPedidosOnline.exe: 00000FB4: 00:52:44 [127.0.0.1]:Processed: Id: 43, Evt: beforeclose, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 0000622C: 00:52:44 [127.0.0.1]:Failed Sequence Recovery: SeqId: 43, Event: beforeclose
+SicPedidosOnline.exe: 0000622C: 00:52:44 [127.0.0.1]:Sequence sent from cache:  SeqId: 43
+SicPedidosOnline.exe: 0000622C: 00:52:44 [127.0.0.1]:Processed: Id: 43, Evt: beforeclose, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 0000533C: 00:52:44 [127.0.0.1]:Failed Sequence Recovery: SeqId: 42, Event: actioncomplete
+SicPedidosOnline.exe: 0000533C: 00:52:44 [127.0.0.1]:Sequence sent from cache:  SeqId: 42
+SicPedidosOnline.exe: 0000533C: 00:52:44 [127.0.0.1]:Processed: Id: 42, Evt: actioncomplete, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00003C5C: 00:52:44 [127.0.0.1]:Failed Sequence Recovery: SeqId: 44, Event: activate
+SicPedidosOnline.exe: 00003C5C: 00:52:44 [127.0.0.1]:Sequence sent from cache:  SeqId: 44
+SicPedidosOnline.exe: 00003C5C: 00:52:44 [127.0.0.1]:Processed: Id: 44, Evt: activate, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 0000297C: 00:52:45 [127.0.0.1]:Failed Sequence Recovery: SeqId: 43, Event: beforeclose
+SicPedidosOnline.exe: 0000297C: 00:52:45 [127.0.0.1]:Sequence sent from cache:  SeqId: 43
+SicPedidosOnline.exe: 000075B4: 00:52:45 [127.0.0.1]:Failed Sequence Recovery: SeqId: 42, Event: actioncomplete
+SicPedidosOnline.exe: 00004FB0: 00:52:45 [127.0.0.1]:Failed Sequence Recovery: SeqId: 44, Event: activate
+SicPedidosOnline.exe: 0000297C: 00:52:45 [127.0.0.1]:Processed: Id: 43, Evt: beforeclose, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 000075B4: 00:52:45 [127.0.0.1]:Sequence sent from cache:  SeqId: 42
+SicPedidosOnline.exe: 000075B4: 00:52:45 [127.0.0.1]:Processed: Id: 42, Evt: actioncomplete, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00001FF0: 00:52:45 [127.0.0.1]:Failed Sequence Recovery: SeqId: 43, Event: beforeclose
+SicPedidosOnline.exe: 00004FB0: 00:52:45 [127.0.0.1]:Sequence sent from cache:  SeqId: 44
+SicPedidosOnline.exe: 00004FB0: 00:52:45 [127.0.0.1]:Processed: Id: 44, Evt: activate, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00001FF0: 00:52:45 [127.0.0.1]:Sequence sent from cache:  SeqId: 43
+SicPedidosOnline.exe: 00001FF0: 00:52:45 [127.0.0.1]:Processed: Id: 43, Evt: beforeclose, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00001FEC: 00:52:45 [127.0.0.1]:Failed Sequence Recovery: SeqId: 44, Event: activate
+SicPedidosOnline.exe: 00001FEC: 00:52:45 [127.0.0.1]:Sequence sent from cache:  SeqId: 44
+SicPedidosOnline.exe: 00001FEC: 00:52:45 [127.0.0.1]:Processed: Id: 44, Evt: activate, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00005E8C: 00:52:45 [127.0.0.1]:Failed Sequence Recovery: SeqId: 42, Event: actioncomplete
+SicPedidosOnline.exe: 00007070: 00:52:45 [127.0.0.1]:Failed Sequence Recovery: SeqId: 42, Event: actioncomplete
+SicPedidosOnline.exe: 00005E8C: 00:52:45 [127.0.0.1]:Sequence sent from cache:  SeqId: 42
+SicPedidosOnline.exe: 00005E8C: 00:52:45 [127.0.0.1]:Processed: Id: 42, Evt: actioncomplete, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00005ED0: 00:52:45 [127.0.0.1]:Failed Sequence Recovery: SeqId: 43, Event: beforeclose
+SicPedidosOnline.exe: 00003328: 00:52:45 [127.0.0.1]:Failed Sequence Recovery: SeqId: 42, Event: actioncomplete
+SicPedidosOnline.exe: 00007338: 00:52:45 [127.0.0.1]:Failed Sequence Recovery: SeqId: 44, Event: activate
+SicPedidosOnline.exe: 000064F0: 00:52:46 [127.0.0.1]:Failed Sequence Recovery: SeqId: 42, Event: actioncomplete
+SicPedidosOnline.exe: 00005ED0: 00:52:46 [127.0.0.1]:Sequence sent from cache:  SeqId: 43
+SicPedidosOnline.exe: 00006A50: 00:52:46 [127.0.0.1]:Failed Sequence Recovery: SeqId: 43, Event: beforeclose
+SicPedidosOnline.exe: 000031D8: 00:52:46 [127.0.0.1]:Failed Sequence Recovery: SeqId: 42, Event: actioncomplete
+SicPedidosOnline.exe: 00005ED0: 00:52:46 [127.0.0.1]:Processed: Id: 43, Evt: beforeclose, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 000064F0: 00:52:46 [127.0.0.1]:Sequence sent from cache:  SeqId: 42
+SicPedidosOnline.exe: 000064F0: 00:52:46 [127.0.0.1]:Processed: Id: 42, Evt: actioncomplete, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00007338: 00:52:46 [127.0.0.1]:Sequence sent from cache:  SeqId: 44
+SicPedidosOnline.exe: 00007338: 00:52:46 [127.0.0.1]:Processed: Id: 44, Evt: activate, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00003328: 00:52:46 [127.0.0.1]:Sequence sent from cache:  SeqId: 42
+SicPedidosOnline.exe: 00003328: 00:52:46 [127.0.0.1]:Processed: Id: 42, Evt: actioncomplete, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00006A50: 00:52:46 [127.0.0.1]:Sequence sent from cache:  SeqId: 43
+SicPedidosOnline.exe: 00006A50: 00:52:46 [127.0.0.1]:Processed: Id: 43, Evt: beforeclose, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 000060CC: 00:52:46 [127.0.0.1]:Failed Sequence Recovery: SeqId: 43, Event: beforeclose
+SicPedidosOnline.exe: 000031D8: 00:52:46 [127.0.0.1]:Sequence sent from cache:  SeqId: 42
+SicPedidosOnline.exe: 000031D8: 00:52:46 [127.0.0.1]:Processed: Id: 42, Evt: actioncomplete, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00007070: 00:52:46 [127.0.0.1]:Sequence sent from cache:  SeqId: 42
+SicPedidosOnline.exe: 00007070: 00:52:46 [127.0.0.1]:Processed: Id: 42, Evt: actioncomplete, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 000060CC: 00:52:46 [127.0.0.1]:Sequence sent from cache:  SeqId: 43
+SicPedidosOnline.exe: 000060CC: 00:52:46 [127.0.0.1]:Processed: Id: 43, Evt: beforeclose, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00005EB4: 00:52:46 [127.0.0.1]:Failed Sequence Recovery: SeqId: 42, Event: actioncomplete
+SicPedidosOnline.exe: 00007304: 00:52:46 [127.0.0.1]:Failed Sequence Recovery: SeqId: 42, Event: actioncomplete
+SicPedidosOnline.exe: 00005EB4: 00:52:46 [127.0.0.1]:Sequence sent from cache:  SeqId: 42
+SicPedidosOnline.exe: 00005EB4: 00:52:46 [127.0.0.1]:Processed: Id: 42, Evt: actioncomplete, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00006D7C: 00:52:46 [127.0.0.1]:Failed Sequence Recovery: SeqId: 44, Event: activate
+SicPedidosOnline.exe: 00007304: 00:52:46 [127.0.0.1]:Sequence sent from cache:  SeqId: 42
+SicPedidosOnline.exe: 00007304: 00:52:47 [127.0.0.1]:Processed: Id: 42, Evt: actioncomplete, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00006D7C: 00:52:47 [127.0.0.1]:Sequence sent from cache:  SeqId: 44
+SicPedidosOnline.exe: 00006D7C: 00:52:47 [127.0.0.1]:Processed: Id: 44, Evt: activate, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00004898: 00:52:47 [127.0.0.1]:Failed Sequence Recovery: SeqId: 44, Event: activate
+SicPedidosOnline.exe: 00006650: 00:52:47 [127.0.0.1]:Failed Sequence Recovery: SeqId: 42, Event: actioncomplete
+SicPedidosOnline.exe: 00007708: 00:52:47 [127.0.0.1]:Failed Sequence Recovery: SeqId: 44, Event: activate
+SicPedidosOnline.exe: 00004898: 00:52:47 [127.0.0.1]:Sequence sent from cache:  SeqId: 44
+SicPedidosOnline.exe: 00004898: 00:52:47 [127.0.0.1]:Processed: Id: 44, Evt: activate, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 000068F4: 00:52:47 [127.0.0.1]:Failed Sequence Recovery: SeqId: 44, Event: activate
+SicPedidosOnline.exe: 00006354: 00:52:47 [127.0.0.1]:Failed Sequence Recovery: SeqId: 43, Event: beforeclose
+SicPedidosOnline.exe: 0000181C: 00:52:47 [127.0.0.1]:Failed Sequence Recovery: SeqId: 43, Event: beforeclose
+SicPedidosOnline.exe: 00006650: 00:52:47 [127.0.0.1]:Sequence sent from cache:  SeqId: 42
+SicPedidosOnline.exe: 00006650: 00:52:47 [127.0.0.1]:Processed: Id: 42, Evt: actioncomplete, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 0000181C: 00:52:47 [127.0.0.1]:Sequence sent from cache:  SeqId: 43
+SicPedidosOnline.exe: 0000181C: 00:52:47 [127.0.0.1]:Processed: Id: 43, Evt: beforeclose, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00007708: 00:52:47 [127.0.0.1]:Sequence sent from cache:  SeqId: 44
+SicPedidosOnline.exe: 00007708: 00:52:47 [127.0.0.1]:Processed: Id: 44, Evt: activate, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00006354: 00:52:47 [127.0.0.1]:Sequence sent from cache:  SeqId: 43
+SicPedidosOnline.exe: 00006354: 00:52:47 [127.0.0.1]:Processed: Id: 43, Evt: beforeclose, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 000068F4: 00:52:47 [127.0.0.1]:Sequence sent from cache:  SeqId: 44
+SicPedidosOnline.exe: 000068F4: 00:52:47 [127.0.0.1]:Processed: Id: 44, Evt: activate, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00007438: 00:52:47 [127.0.0.1]:Failed Sequence Recovery: SeqId: 44, Event: activate
+SicPedidosOnline.exe: 00007438: 00:52:47 [127.0.0.1]:Sequence sent from cache:  SeqId: 44
+SicPedidosOnline.exe: 00007438: 00:52:47 [127.0.0.1]:Processed: Id: 44, Evt: activate, [T1dpXvrP5B105D0469F]
+SicPedidosOnline.exe: 00001700: 01:06:49 [127.0.0.1]:Failed Sequence Recovery: SeqId: 29, Event: activate
+SicPedidosOnline.exe: 000057EC: 01:06:49 [127.0.0.1]:Failed Sequence Recovery: SeqId: 28, Event: beforeclose
+SicPedidosOnline.exe: 000057E4: 01:06:49 [127.0.0.1]:Failed Sequence Recovery: SeqId: 27, Event: actioncomplete
+SicPedidosOnline.exe: 000066B0: 01:06:49 [127.0.0.1]:Sequence Error Timeout : TDiff:76500, Event: activate, Expected: 28, Received: 29, [PLSfZJ8iRq105D04C8D]
+SicPedidosOnline.exe: 000066B0: 01:06:49 [127.0.0.1]:Failed Sequence Reset to: 28
+SicPedidosOnline.exe: 00003E70: 01:06:49 [127.0.0.1]:Failed Sequence Recovery: SeqId: 28, Event: beforeclose
+SicPedidosOnline.exe: 000057E4: 01:06:49 [127.0.0.1]:Sequence sent from cache:  SeqId: 27
+SicPedidosOnline.exe: 000057E4: 01:06:49 [127.0.0.1]:Processed: Id: 27, Evt: actioncomplete, [PLSfZJ8iRq105D04C8D]
+SicPedidosOnline.exe: 000057EC: 01:06:49 [127.0.0.1]:Sequence sent from cache:  SeqId: 28
+SicPedidosOnline.exe: 000057EC: 01:06:49 [127.0.0.1]:Processed: Id: 28, Evt: beforeclose, [PLSfZJ8iRq105D04C8D]
+SicPedidosOnline.exe: 00001700: 01:06:49 [127.0.0.1]:Processing: Id: 29, Evt: activate
+SicPedidosOnline.exe: 00001700: 01:06:49 [127.0.0.1]:Processed: Id: 29, Evt: activate, [PLSfZJ8iRq105D04C8D]
+SicPedidosOnline.exe: 00003E70: 01:06:49 [127.0.0.1]:Sequence sent from cache:  SeqId: 28
+SicPedidosOnline.exe: 00003E70: 01:06:49 [127.0.0.1]:Processed: Id: 28, Evt: beforeclose, [PLSfZJ8iRq105D04C8D]
+SicPedidosOnline.exe: 00007608: 01:06:49 [127.0.0.1]:Failed Sequence Recovery: SeqId: 29, Event: activate
+SicPedidosOnline.exe: 00007608: 01:06:49 [127.0.0.1]:Sequence sent from cache:  SeqId: 29
+SicPedidosOnline.exe: 00007608: 01:06:49 [127.0.0.1]:Processed: Id: 29, Evt: activate, [PLSfZJ8iRq105D04C8D]
+SicPedidosOnline.exe: 00004568: 01:24:18 [127.0.0.1]:Sequence Error Timeout : TDiff:58985, Event: activate, Expected: 31, Received: 32, [x6DM8RqsUQ105D0518D]
+SicPedidosOnline.exe: 00004568: 01:24:18 [127.0.0.1]:Failed Sequence Reset to: 31
+SicPedidosOnline.exe: 00005E9C: 01:24:18 [127.0.0.1]:Failed Sequence Recovery: SeqId: 32, Event: activate
+SicPedidosOnline.exe: 000031D8: 01:24:18 [127.0.0.1]:Failed Sequence Recovery: SeqId: 31, Event: beforeclose
+SicPedidosOnline.exe: 00005E9C: 01:24:18 [127.0.0.1]:Processing: Id: 32, Evt: activate
+SicPedidosOnline.exe: 00005E9C: 01:24:18 [127.0.0.1]:Processed: Id: 32, Evt: activate, [x6DM8RqsUQ105D0518D]
+SicPedidosOnline.exe: 000031D8: 01:24:18 [127.0.0.1]:Sequence sent from cache:  SeqId: 31
+SicPedidosOnline.exe: 000031D8: 01:24:18 [127.0.0.1]:Processed: Id: 31, Evt: beforeclose, [x6DM8RqsUQ105D0518D]
+SicPedidosOnline.exe: 00004974: 01:24:18 [127.0.0.1]:Failed Sequence Recovery: SeqId: 30, Event: actioncomplete
+SicPedidosOnline.exe: 00004974: 01:24:18 [127.0.0.1]:Sequence sent from cache:  SeqId: 30
+SicPedidosOnline.exe: 00004974: 01:24:18 [127.0.0.1]:Processed: Id: 30, Evt: actioncomplete, [x6DM8RqsUQ105D0518D]
+SicPedidosOnline.exe: 00004BE8: 21:28:03 [127.0.0.1]:Failed Sequence Recovery: SeqId: 26, Event: actioncomplete
+SicPedidosOnline.exe: 00004BE8: 21:28:03 [127.0.0.1]:Sequence sent from cache:  SeqId: 26
+SicPedidosOnline.exe: 00004BE8: 21:28:03 [127.0.0.1]:Processed: Id: 26, Evt: actioncomplete, [1Xp3CQ1jPd105D19752]
+SicPedidosOnline.exe: 000047C4: 21:28:03 [127.0.0.1]:Failed Sequence Recovery: SeqId: 27, Event: beforeclose
+SicPedidosOnline.exe: 000047C4: 21:28:03 [127.0.0.1]:Sequence sent from cache:  SeqId: 27
+SicPedidosOnline.exe: 000047C4: 21:28:03 [127.0.0.1]:Processed: Id: 27, Evt: beforeclose, [1Xp3CQ1jPd105D19752]
+SicPedidosOnline.exe: 000042A0: 21:28:04 [127.0.0.1]:Failed Sequence Recovery: SeqId: 28, Event: activate
+SicPedidosOnline.exe: 000042A0: 21:28:04 [127.0.0.1]:Sequence sent from cache:  SeqId: 28
+SicPedidosOnline.exe: 000042A0: 21:28:04 [127.0.0.1]:Processed: Id: 28, Evt: activate, [1Xp3CQ1jPd105D19752]

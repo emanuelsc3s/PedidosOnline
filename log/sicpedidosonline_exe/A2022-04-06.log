@@ -1,0 +1,41 @@
+SicPedidosOnline.exe: 00002D44: 21:56:30 []:>--------------------------------------------------------------<
+SicPedidosOnline.exe: 00002D44: 21:56:30 [TUniServerModule]:Server First Init.
+SicPedidosOnline.exe: 00001354: 21:56:30 []:>--------------------------------------------------------------<
+SicPedidosOnline.exe: 00001354: 21:56:30 [TUniServerModule]:Server First Init.
+SicPedidosOnline.exe: 00002D44: 21:56:30 [TUniServerModule]:Global Cache Folder Erased. <19> Files deleted.
+SicPedidosOnline.exe: 00002D44: 21:56:31 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+SicPedidosOnline.exe: 00001354: 21:56:31 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+SicPedidosOnline.exe: 00002D44: 21:56:31 [TUniServerModule]:HTTP Server Started on Port: 8077
+SicPedidosOnline.exe: 00001354: 21:56:31 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. Address and port are already in use. : Addr: $006FB915
+SicPedidosOnline.exe: 000053C8: 21:56:33 [Requested Theme File not found:]:C:\uni\css\uni-xtheme-classic.css
+SicPedidosOnline.exe: 000053C8: 21:56:33 []:TUniThemeProps: File not found: C:\uni\css\uni-xtheme-classic.css
+SicPedidosOnline.exe: 0000546C: 21:56:33 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\css\uni-ext.css
+SicPedidosOnline.exe: 000054A0: 21:56:33 [HandleFileRequest[127.0.0.1]]:File not found: C:\ext-6.7.0\build\classic\theme-classic\resources\theme-classic-all.css
+SicPedidosOnline.exe: 000053C8: 21:56:33 [Requested Theme File not found:]:C:\uni\css\uni-xtheme-classic.css
+SicPedidosOnline.exe: 000053C8: 21:56:33 [HandleFileRequest[127.0.0.1]]:File not found: C:\ext-6.7.0\build\ext-all.js
+SicPedidosOnline.exe: 000042D0: 21:56:33 [HandleFileRequest[127.0.0.1]]:File not found: C:\ext-6.7.0\build\packages\font-awesome\resources\font-awesome-all.css
+SicPedidosOnline.exe: 00005160: 21:56:34 [HandleFileRequest[127.0.0.1]]:File not found: C:\ext-6.7.0\build\packages\font-pictos\resources\font-pictos-all.css
+SicPedidosOnline.exe: 00005A54: 21:56:34 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\css\uni-xtheme-common.css
+SicPedidosOnline.exe: 000037C8: 21:56:34 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\css\uni-ext.css
+SicPedidosOnline.exe: 00004328: 21:56:34 [HandleFileRequest[127.0.0.1]]:File not found: C:\ext-6.7.0\build\classic\theme-classic\resources\theme-classic-all.css
+SicPedidosOnline.exe: 000037F4: 21:56:34 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00002F28: 21:56:34 [HandleFileRequest[127.0.0.1]]:File not found: C:\ext-6.7.0\build\classic\theme-classic\theme-classic.js
+SicPedidosOnline.exe: 00004C0C: 21:56:34 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\ext-sync-min.js
+SicPedidosOnline.exe: 0000427C: 21:56:34 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\jQuery\jquery-1.11.2.min.js
+SicPedidosOnline.exe: 00004A00: 21:56:34 [HandleFileRequest[127.0.0.1]]:File not found: C:\ext-6.7.0\build\classic\locale\locale-pt.js
+SicPedidosOnline.exe: 00003488: 21:56:34 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\jQuery\MaskedInput\jquery.inputmask.min.js
+SicPedidosOnline.exe: 000055E0: 21:56:34 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\ext-unicommon-min.js
+SicPedidosOnline.exe: 00005458: 21:56:34 [HandleFileRequest[127.0.0.1]]:File not found: C:\ext-6.7.0\build\packages\font-awesome\resources\font-awesome-all.css
+SicPedidosOnline.exe: 00004424: 21:56:34 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\css\uni-xtheme-common.css
+SicPedidosOnline.exe: 00001D6C: 21:56:34 [HandleFileRequest[127.0.0.1]]:File not found: C:\ext-6.7.0\build\packages\font-pictos\resources\font-pictos-all.css
+SicPedidosOnline.exe: 000050A8: 21:56:34 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Administrador\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\files\font-awesome\css\fontawesome.min.css
+SicPedidosOnline.exe: 00001C8C: 21:56:34 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\ext-unicommon-min.js
+SicPedidosOnline.exe: 00004F74: 21:56:34 [HandleFileRequest[127.0.0.1]]:File not found: C:\ext-6.7.0\build\classic\theme-classic\theme-classic.js
+SicPedidosOnline.exe: 00005D04: 21:56:34 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\ext-sync-min.js
+SicPedidosOnline.exe: 00001804: 21:56:35 [HandleFileRequest[127.0.0.1]]:File not found: C:\ext-6.7.0\build\classic\locale\locale-pt.js
+SicPedidosOnline.exe: 00000AC8: 21:56:35 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\jQuery\jquery-1.11.2.min.js
+SicPedidosOnline.exe: 00002500: 21:56:35 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\jQuery\MaskedInput\jquery.inputmask.min.js
+SicPedidosOnline.exe: 000016C4: 21:56:35 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\jQuery\autoNumeric\autoNumeric-1.9.35.js
+SicPedidosOnline.exe: 000023A4: 21:56:35 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\ext-unigui-min.js
+SicPedidosOnline.exe: 00001354: 22:05:39 [Exit]:Unexpected attempt to terminate server application with Exit Code: 0
+SicPedidosOnline.exe: 00002D44: 22:05:39 [Exit]:Unexpected attempt to terminate server application with Exit Code: 0
