@@ -1,0 +1,327 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <title>TÍTULO DA PÁGINA</title>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+
+  <!-- Font icons -->
+  <link rel="stylesheet" href="css/font-awesome.min.css">
+
+</head>
+<body style="font-size: 12px;">
+  <header class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand d-block d-md-none" href="#">Menu Principal</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#menuSuperior" aria-controls="menuSuperior" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="menuSuperior">
+        <ul class="navbar-nav">
+          
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="consultas" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <i class="fa fa-search" aria-hidden="true"></i> Consultas
+            </a>
+            <div class="dropdown-menu" aria-labelledby="consultas">
+              <a class="dropdown-item" href="#">Primeiro link</a>
+              <a class="dropdown-item" href="#">Segundo link</a>
+              <a class="dropdown-item" href="#">Terceiro link</a>
+            </div>
+          </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="ferramentas" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <i class="fa fa-gavel" aria-hidden="true"></i> Ferramentas
+            </a>
+            <div class="dropdown-menu" aria-labelledby="ferramentas">
+              <a class="dropdown-item" href="#">Primeiro link</a>
+              <a class="dropdown-item" href="#">Segundo link</a>
+              <a class="dropdown-item" href="#">Terceiro link</a>
+            </div>
+          </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="relatorios" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <i class="fa fa-bar-chart" aria-hidden="true"></i> Relatórios
+            </a>
+            <div class="dropdown-menu" aria-labelledby="relatorios">
+              <a class="dropdown-item" href="#">Primeiro link</a>
+              <a class="dropdown-item" href="#">Segundo link</a>
+              <a class="dropdown-item" href="#">Terceiro link</a>
+            </div>
+          </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="ajudaMenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <i class="fa fa-question-circle" aria-hidden="true"></i> Ajuda
+            </a>
+            <div class="dropdown-menu" aria-labelledby="ajudaMenu">
+              <a class="dropdown-item" href="#">Primeiro link</a>
+              <a class="dropdown-item" href="#">Segundo link</a>
+              <a class="dropdown-item" href="#">Terceiro link</a>
+            </div>
+          </li>
+
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <div class="container principal">
+    <div class="row">
+      <div class="col-12 col-md-3 lateral">
+        <div class="accordionLateral" id="accordion" role="tablist">
+          
+          <div class="card">
+            <div class="card-header collapsed" role="tab" id="headingClientes" data-toggle="collapse" href="#cliente" aria-expanded="false" aria-controls="cliente">
+              <h5 class="mb-0 tamanho">
+                Clientes
+              </h5 >
+            </div>
+            <div  id="cliente"  role="tabpanel" aria-labelledby="headingClientes" data-parent="#accordion">
+              <div align="center" id="logomarca" class="col-md-12"> <!-- precisa de "lateralImg" aqui! -->
+              <ul class="Espacamento">
+                <li><img src="img/logomarca.png" class="img-fluid"></li>
+              </ul>                
+
+                <!-- imagem aqui com a class "img-fluid" para ser responsivo -->
+                
+
+              </div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header collapsed" role="tab" id="headingIndicadores" data-toggle="collapse" href="#indicadores" aria-expanded="false" aria-controls="indicadores">
+              <h5 class="mb-0">
+                Indicadores
+              </h5>
+            </div>
+            <div id="indicadores" class="collapse" role="tabpanel" aria-labelledby="headingIndicadores" data-parent="#accordion">
+              <div class="card-body">
+                
+                <!-- LISTA DE LINKS -->
+                <ul class="EspacamentoTamanho">
+                  <li><a href="#Link">Opção aqui</a></li>
+                  <li><a href="#Link">Opção aqui</a></li>
+                  <li><a href="#Link">Opção aqui</a></li>
+                  <li><a href="#Link">Opção aqui</a></li>
+                </ul>
+                <!-- ############## -->
+
+              </div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header collapsed" role="tab" id="headingCadastro" data-toggle="collapse" href="#cadastro" aria-expanded="false" aria-controls="cadastro">
+              <h5 class="mb-0">
+                Cadastro
+              </h5>
+            </div>
+            <div id="cadastro" class="collapse" role="tabpanel" aria-labelledby="headingCadastro" data-parent="#accordion">
+              <div class="card-body">
+
+                <!-- LISTA DE LINKS -->
+                <ul class="EspacamentoTamanho" >
+                  <li><a href="#Link">Usuários</a></li>
+                  <li><a href="#Link">Pessoas</a></li>
+                  <li><a href="#Link">Produtos</a></li>
+                  <li><a href="#Link">Vandedores</a></li>
+                </ul>
+                <!-- ############## -->
+
+              </div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header collapsed" role="tab" id="headingFaturamento" data-toggle="collapse" href="#faturamento" aria-expanded="false" aria-controls="faturamento">
+              <h5 class="mb-0">
+                Faturamento
+              </h5>
+            </div>
+            <div id="faturamento" class="collapse" role="tabpanel" aria-labelledby="headingFaturamento" data-parent="#accordion">
+              <div class="card-body">
+                
+                <!-- LISTA DE LINKS -->
+                <ul class="EspacamentoTamanho">
+                  <li><a href="#Link">Opção aqui</a></li>
+                  <li><a href="#Link">Opção aqui</a></li>
+                  <li><a href="#Link">Opção aqui</a></li>
+                  <li><a href="#Link">Opção aqui</a></li>
+                </ul>
+                <!-- ############## -->
+
+              </div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header collapsed" role="tab" id="headingFinanceiro" data-toggle="collapse" href="#financeiro" aria-expanded="false" aria-controls="financeiro">
+              <h5 class="mb-0">
+                Financeiro
+              </h5>
+            </div>
+            <div id="financeiro" class="collapse" role="tabpanel" aria-labelledby="headingFinanceiro" data-parent="#accordion">
+              <div class="card-body">
+                
+                <!-- LISTA DE LINKS -->
+                <ul class="EspacamentoTamanho">
+                  <li><a href="#Link">Opção aqui</a></li>
+                  <li><a href="#Link">Opção aqui</a></li>
+                  <li><a href="#Link">Opção aqui</a></li>
+                  <li><a href="#Link">Opção aqui</a></li>
+                </ul>
+                <!-- ############## -->
+
+              </div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header collapsed" role="tab" id="headingRastreabilidade" data-toggle="collapse" href="#rastreabilidade" aria-expanded="false" aria-controls="rastreabilidade">
+              <h5 class="mb-0">
+                Rastreabilidade
+              </h5>
+            </div>
+            <div id="rastreabilidade" class="collapse" role="tabpanel" aria-labelledby="headingRastreabilidade" data-parent="#accordion">
+              <div class="card-body">
+                
+                <!-- LISTA DE LINKS -->
+                <ul class="EspacamentoTamanho">
+                  <li><a href="#Link">Opção aqui</a></li>
+                  <li><a href="#Link">Opção aqui</a></li>
+                  <li><a href="#Link">Opção aqui</a></li>
+                  <li><a href="#Link">Opção aqui</a></li>
+                </ul>
+                <!-- ############## -->
+
+              </div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header collapsed" role="tab" id="headingLicitacao" data-toggle="collapse" href="#licitacao" aria-expanded="false" aria-controls="licitacao">
+              <h5 class="mb-0">
+                Licitação
+              </h5>
+            </div>
+            <div id="licitacao" class="collapse" role="tabpanel" aria-labelledby="headingLicitacao" data-parent="#accordion">
+              <div class="card-body">
+                
+                <!-- LISTA DE LINKS -->
+                <ul class="EspacamentoTamanho">
+                  <li><a href="#Link">Opção aqui</a></li>
+                  <li><a href="#Link">Opção aqui</a></li>
+                  <li><a href="#Link">Opção aqui</a></li>
+                  <li><a href="#Link">Opção aqui</a></li>
+                </ul>
+                <!-- ############## -->
+
+              </div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header collapsed" role="tab" id="headingLogistica" data-toggle="collapse" href="#logistica" aria-expanded="false" aria-controls="logistica">
+              <h5 class="mb-0">
+                Logística
+              </h5>
+            </div>
+            <div id="logistica" class="collapse" role="tabpanel" aria-labelledby="headingLogistica" data-parent="#accordion">
+              <div class="card-body">
+                
+                <!-- LISTA DE LINKS -->
+                <ul class="EspacamentoTamanho">
+                  <li><a href="#Link">Opção aqui</a></li>
+                  <li><a href="#Link">Opção aqui</a></li>
+                  <li><a href="#Link">Opção aqui</a></li>
+                  <li><a href="#Link">Opção aqui</a></li>
+                </ul>
+                <!-- ############## -->
+
+              </div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header collapsed" role="tab" id="headingQualidade" data-toggle="collapse" href="#qualidade" aria-expanded="false" aria-controls="qualidade">
+              <h5 class="mb-0">
+                Qualidade
+              </h5>
+            </div>
+            <div id="qualidade" class="collapse" role="tabpanel" aria-labelledby="headingQualidade" data-parent="#accordion">
+              <div class="card-body">
+                
+                <!-- LISTA DE LINKS -->
+                <ul class="EspacamentoTamanho">
+                  <li><a href="#Link">Opção aqui</a></li>
+                  <li><a href="#Link">Opção aqui</a></li>
+                  <li><a href="#Link">Opção aqui</a></li>
+                  <li><a href="#Link">Opção aqui</a></li>
+                </ul>
+                <!-- ############## -->
+
+              </div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header collapsed" role="tab" id="headingAjuda" data-toggle="collapse" href="#ajudaLateral" aria-expanded="false" aria-controls="ajudaLateral">
+              <h5 class="mb-0">
+                Ajuda
+              </h5>
+            </div>
+            <div id="ajudaLateral" class="collapse" role="tabpanel" aria-labelledby="headingAjuda" data-parent="#accordion">
+              <div class="card-body">
+                
+                <!-- LISTA DE LINKS -->
+                <ul class="EspacamentoTamanho">
+                  <li><a href="#Link">Opção aqui</a></li>
+                  <li><a href="#Link">Opção aqui</a></li>
+                  <li><a href="#Link">Opção aqui</a></li>
+                  <li><a href="#Link">Opção aqui</a></li>
+                </ul>
+                <!-- ############## -->
+
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="col-12 col-md-9 conteudoPrincipal">
+        <div class="painelAvisos">
+          <a href="#link">Painel de Aviso <i class="fa fa-exclamation-circle" aria-hidden="true"></i></a>
+        </div>
+        <div class="conteudo">
+          <h5>Clientes</h5>
+          <ul style=" font-size: 12px; line-height: 17px;">
+            <li><a href="#">Clientes Bloqueados (0)</a></li>
+            <li><a href="#">Clientes Inativos com mais de 90 dias (0)</a></li>
+            <li><a href="#">Clientes Inadimplentes com 30 dias (0)</a></li>
+            <li><a href="#">Clientes Inadimplentes com 60 dias (0)</a></li>
+            <li><a href="#">Clientes Inadimplentes acima de 60 dias (0)</a></li>
+            <li><a href="#">Clientes com Documentação Vencida (0)</a></li>
+            <li><a href="#">Clientes com Documentatação a Vencer em 30 dias (0)</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+  <script src="js/bootstrap.min.js"></script>
+</body>
+</html>

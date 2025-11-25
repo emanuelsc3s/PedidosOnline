@@ -1,0 +1,1 @@
+colocar todas essas pastas do design/ na pasta win32/

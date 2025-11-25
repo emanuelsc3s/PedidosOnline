@@ -1,0 +1,164 @@
+@font-face {
+    font-family: 'MyriadPro-Regular';
+    src: url(../font/MyriadPro-Regular.otf);
+}
+
+html, body {
+    height: 100%; 
+    margin: 0; 
+    padding: 0;
+    list-style: none;
+    outline: none;
+}
+
+/* header {{{ */
+#header {
+    margin: 0 60px; 
+    height: 50px; 
+    background-color: #1464BE;
+    position: relative;
+    border-radius: 0 0 5px 5px;
+    box-shadow: 0 1px 5px #e9e9e9; 
+}
+
+#header #logo{
+    margin-top: 0px;
+    height: 50px;
+    width: 100%;
+    background: url(../imagens/c3-branca-36x40.png) 0 0 no-repeat;
+/*    background-size: 36px 40px;*/
+    background-position-x: 35px;
+    background-position-y: 4px;
+}
+
+#header #logo h1 {
+    margin-top: 12px;
+    margin-left: 85px;
+    position: absolute;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: white;
+    text-shadow: 0 1px 0 rgb(9, 142, 209);    
+}
+
+#header #logo h2 {
+    margin-top: 12px;
+    right: 35px;
+    position: absolute;
+/*    font-family: Droid Sans, sans-serif, tahoma, "Trebuchet MS";        */
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: #FFF;
+    text-shadow: 0 1px 0 rgb(9, 142, 209);
+}
+
+#login {
+    width: 600px;
+    height: 350px;    
+    margin: 0 auto;
+    top: 110px;    
+    position: relative;
+    background-color: rgb(231,236,250);
+    /*-webkit-box-shadow: 6px 7px 5px rgba(50, 50, 50, 0.77);
+    -moz-box-shadow: 6px 7px 5px rgba(50, 50, 50, 0.77); */
+    box-shadow: 0px 0px 20px 1px rgba(50, 50, 50, 0.2);    
+    border-radius: 30px;
+}
+
+#login #span1 {
+    position: absolute;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 24px;
+    alignment-baseline: central;
+    color: #336699;
+    margin-top: 25px;
+    margin-left: 60px;
+}
+
+#login #span2 {
+    position: absolute;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 17px;
+    alignment-baseline: central;
+    color: #336699;
+    margin-top: 60px;
+    margin-left: 60px;
+}
+
+#login #span3 {
+    position: absolute;
+    font-family: 'PT Sans', sans-serif;
+    alignment-baseline: central;
+    margin-top: 285px;
+    margin-left: 60px;
+    color: #484848;
+/*    color: rgb(150, 150, 150);*/
+    display: block;
+/*    font-family: Arial, sans-serif;*/
+    font-size: 15px;    
+/*    text-align: justify;*/
+}
+
+#login #entrar {
+    position: absolute;
+    width: 400px;
+    height: 270px;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+
+#login #direita {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 415px;
+    width: 180px;
+    height: 270px;
+    background: url(../imagens/c3s-full.png) 0 0 no-repeat;
+    background-size: 125px 145px;
+    background-position-x: 5px;
+    background-position-y: 5px;    
+}
+
+#login #entrar label {
+    display: block;
+/*    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    font-size: 20px;*/
+    font-size: 13px;
+    font-weight: normal;
+    color: #336699;
+    line-height: 18px;
+    padding-top: 5px;
+}
+
+#login #entrar .edit {
+    border: thin solid rgb(127,157,185);
+    border-radius: 5px;    
+    width: 300px;
+    height: 30px;
+}
+
+.edit:focus {
+    /*border: thin solid #09F;
+    box-shadow: 0 2px 8px #09F;
+    -webkit-box-shadow: 0 1px 8px #09F;
+    -moz-box-shadow: 0 1px 8px #09F;*/
+}
+
+#login #entrar .btn_acessar {
+    position: absolute;
+    margin-top: 10px;
+    right: 100px;
+}
+
+.btn_acessar:hover {
+    background: #09F;
+    color: #fff;
+}
+
+.transition {
+    transition: all 0.5s linear;
+    -webkit-transition: 
+}

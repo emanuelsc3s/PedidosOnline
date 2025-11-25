@@ -1,0 +1,135 @@
+/* ESTILO PRINCIPAL
+#
+#  FABRIZIO FEITOSA
+#  fabriziofeitosa.me
+#
+*/
+
+body {
+	font-family: Verdana;
+	font-size: 14px;
+	background-color: #f6f6f6;
+}
+
+#cliente{
+	height: 150px;
+	
+}
+
+#labelUsuario{
+	font-family: verdana;
+	font-size: 12px;
+	margin-top: 7px;
+}
+
+.principal {
+	margin-top: 10px;
+}
+
+.principal .card-header {
+	padding: 5px 10px;
+}
+
+.principal .card:not(:first-child) { margin-top: 10px; }
+.principal .card .card-header { cursor: pointer; }
+
+.principal .accordionLateral {
+	background: #1464BE;
+	padding: 10px 10px;
+	min-height: calc(100vh - 83px);
+	border-radius: 4px;
+	margin-bottom: 10px;
+}
+
+.principal .lateral ul {
+	list-style: none;
+	padding-left: 0px;
+	margin-bottom: 0px;
+}
+.principal .lateral ul li:not(:first-child):not(:last-child) {
+	padding: 5px 0px;
+}
+.principal .lateral ul li:first-child { padding: 10px 0px 5px 0px; }
+.principal .lateral ul li:last-child { padding: 5px 0px 10px 0px; }
+
+.principal .lateral .card-header h5 {
+	font-size: 18px;
+}
+.principal .lateral .card-header::after {
+	font-family: FontAwesome;
+	content: '\f00d';
+	display: block;
+	position: absolute;
+	top: 0px;
+	right: 14px;
+	line-height: 30px;
+	transition: all .2s;
+}
+.principal .lateral .card-header.collapsed::after {
+	-webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+	transform: rotate(45deg);
+}
+
+.principal .conteudoPrincipal .painelAvisos {
+	height: 50px;
+	line-height: 50px;
+	text-align: right;
+	background: #1464BE;
+	color: #ffffff;
+	padding-right: 20px;
+	margin-bottom: 10px;
+	border-radius: 4px;
+}
+.principal .conteudoPrincipal .painelAvisos a { color: #fff; }
+
+.principal .conteudoPrincipal h5 {
+	border-bottom: 1px solid #1464BE;
+	padding-bottom: 5px;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+.principal .conteudoPrincipal ul {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.principal .conteudoPrincipal .conteudo {
+	padding: 10px 10px;
+	background-color: #fff;
+	border-radius: 4px;
+	color: #1464BE;
+}
+
+.bg-light {
+    background-color: #1464BE !important;
+    border-radius: 4px;
+	margin-top: 10px;
+}
+.card-body {
+	padding: 0px 20px;
+}
+.navbar-light .navbar-nav .nav-link,
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #fff;
+}
+
+.card-body.lateralImg { padding: 10px; }
+
+.EspacamentoTamanho{
+	font-size: 12px;
+	line-height: 8px;
+}
+
+.Espacamento{
+	line-height: 140px;
+}
+
+.tamanho{
+	font-size: 12px;
+	font-weight: bold;
+	color: #1874CD;
+}
