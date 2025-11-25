@@ -198,6 +198,7 @@ type
 
     vOrcamento_ID           : string;
     vPedido_ID              : string;
+    vPedido_Codigo          : string;
     vAprovar                : string;
     vERP_Produto            : string;
     vModoPedido             : string;

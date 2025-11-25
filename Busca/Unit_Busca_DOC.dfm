@@ -1,7 +1,7 @@
 object Form_Busca_Doc: TForm_Busca_Doc
   Left = 0
   Top = 0
-  ClientHeight = 368
+  ClientHeight = 461
   ClientWidth = 859
   Caption = 'Consulta de Documentos'
   OnShow = UniFormShow
@@ -12,9 +12,9 @@ object Form_Busca_Doc: TForm_Busca_Doc
   TextHeight = 13
   object UniDBGrid1: TUniDBGrid
     Left = 8
-    Top = 71
+    Top = 121
     Width = 843
-    Height = 242
+    Height = 285
     Hint = ''
     DataSource = DataSource1
     Options = [dgTitles, dgIndicator, dgColumnResize, dgColLines, dgRowLines, dgConfirmDelete, dgAutoRefreshRow]
@@ -53,6 +53,13 @@ object Form_Busca_Doc: TForm_Busca_Doc
         Title.Font.Name = 'Verdana'
         Width = 88
         Font.Color = 12287488
+      end
+      item
+        FieldName = 'ACESSO'
+        Title.Caption = 'Acesso'
+        Title.Font.Color = 12287488
+        Title.Font.Name = 'Verdana'
+        Width = 64
       end
       item
         FieldName = 'NOME_ARQUIVO'
@@ -98,7 +105,7 @@ object Form_Busca_Doc: TForm_Busca_Doc
   end
   object UniPanel2: TUniPanel
     Left = 0
-    Top = 320
+    Top = 413
     Width = 859
     Height = 48
     Hint = ''
@@ -111,9 +118,10 @@ object Form_Busca_Doc: TForm_Busca_Doc
     TabOrder = 1
     Alignment = taRightJustify
     Caption = ''
+    ExplicitTop = 319
     object btn_Consultar: TUniButton
-      Left = 8
-      Top = 13
+      Left = 3
+      Top = 12
       Width = 100
       Height = 25
       Hint = ''
@@ -188,6 +196,83 @@ object Form_Busca_Doc: TForm_Busca_Doc
       TabOrder = 3
     end
   end
+  object UniPanel3: TUniPanel
+    Left = 0
+    Top = 65
+    Width = 859
+    Height = 54
+    Hint = ''
+    Align = alTop
+    ParentFont = False
+    Font.Color = 9856100
+    Font.Height = -17
+    Font.Name = 'Verdana'
+    Font.Style = [fsBold]
+    TabOrder = 3
+    Alignment = taRightJustify
+    Caption = ''
+    object UniLabel3: TUniLabel
+      Left = 338
+      Top = 4
+      Width = 50
+      Height = 13
+      Hint = ''
+      Caption = 'Acesso:'
+      ParentFont = False
+      Font.Color = clBlack
+      Font.Name = 'Verdana'
+      Font.Style = [fsBold]
+      TabOrder = 1
+    end
+    object UniLabel4: TUniLabel
+      Left = 14
+      Top = 6
+      Width = 210
+      Height = 13
+      Hint = ''
+      Caption = 'Pesquisar por: Nome do Arquivo'
+      ParentFont = False
+      Font.Color = clBlack
+      Font.Name = 'Verdana'
+      Font.Style = [fsBold]
+      TabOrder = 2
+    end
+    object pAcesso: TUniComboBox
+      Left = 338
+      Top = 23
+      Width = 145
+      Height = 21
+      Hint = ''
+      Style = csDropDownList
+      Text = 'Todos'
+      Items.Strings = (
+        'Todos'
+        'Comercial'
+        'Ambos')
+      ItemIndex = 0
+      ParentFont = False
+      Font.Color = clBlack
+      Font.Name = 'Verdana'
+      Font.Style = [fsBold]
+      TabOrder = 3
+      IconItems = <>
+      OnSelect = pAcessoSelect
+    end
+    object Edit_Pesq: TUniEdit
+      Left = 14
+      Top = 23
+      Width = 318
+      Hint = ''
+      CharCase = ecUpperCase
+      Text = ''
+      ParentFont = False
+      Font.Color = clBlack
+      Font.Name = 'Verdana'
+      Font.Style = [fsBold]
+      TabOrder = 4
+      OnChange = Edit_PesqChange
+    end
+  end
   object DS_DOC: TIBDataSet
     Database = UniMainModule.IBDatabase1
     Transaction = UniMainModule.IBTransaction1
@@ -208,7 +293,8 @@ object Form_Busca_Doc: TForm_Busca_Doc
         'O, USUARIO_D, '
       
         '   USUARIONOME_D, DATA_DEL, DATAWARE, DOCUMENTO, ORCAMENTO_CODIG' +
-        'O, ORCAMENTO_ID)'
+        'O, ORCAMENTO_ID, '
+      '   COMERCIAL)'
       'values'
       
         '  (:DOC_ID, :PEDIDO_ID, :PEDIDO_CODIGO, :NOME_ARQUIVO, :TAMANHO,' +
@@ -219,19 +305,14 @@ object Form_Busca_Doc: TForm_Busca_Doc
       
         '   :USUARIO_D, :USUARIONOME_D, :DATA_DEL, :DATAWARE, :DOCUMENTO,' +
         ' :ORCAMENTO_CODIGO, '
-      '   :ORCAMENTO_ID)')
-    RefreshSQL.Strings = (
-      'Select *'
-      'from tbdoc '
-      'where'
-      '  DOC_ID = :DOC_ID')
+      '   :ORCAMENTO_ID, :COMERCIAL)')
     SelectSQL.Strings = (
       'select doc_id, pedido_id, pedido_codigo, nome_arquivo, tamanho,'
       '  extensao, item, caminho, usuario_i, usuarionome_i, data_inc,'
       
         '  deletado, arquivo, usuario_d, usuarionome_d, data_del, datawar' +
         'e, '
-      ' documento, orcamento_codigo, orcamento_id'
+      ' documento, orcamento_codigo, orcamento_id, comercial'
       'from tbdoc'
       '  where doc_id = 0')
     ModifySQL.Strings = (
@@ -256,7 +337,8 @@ object Form_Busca_Doc: TForm_Busca_Doc
       '  DATAWARE = :DATAWARE,'
       '  DOCUMENTO = :DOCUMENTO,'
       '  ORCAMENTO_CODIGO = :ORCAMENTO_CODIGO,'
-      '  ORCAMENTO_ID = :ORCAMENTO_ID'
+      '  ORCAMENTO_ID = :ORCAMENTO_ID,'
+      '  COMERCIAL = :COMERCIAL'
       'where'
       '  DOC_ID = :OLD_DOC_ID')
     ParamCheck = True
@@ -377,6 +459,18 @@ object Form_Busca_Doc: TForm_Busca_Doc
     object DS_DOCORCAMENTO_ID: TIntegerField
       FieldName = 'ORCAMENTO_ID'
       Origin = '"TBDOC"."ORCAMENTO_ID"'
+    end
+    object DS_DOCCOMERCIAL: TIBStringField
+      FieldName = 'COMERCIAL'
+      Origin = '"TBDOC"."COMERCIAL"'
+      FixedChar = True
+      Size = 1
+    end
+    object DS_DOCACESSO: TStringField
+      FieldKind = fkCalculated
+      FieldName = 'ACESSO'
+      Size = 10
+      Calculated = True
     end
   end
   object DataSource1: TDataSource

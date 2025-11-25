@@ -61,6 +61,8 @@ type
     procedure pFiltrarPor(campo : String);
     procedure pAprovarPedido(Sender: TComponent; Result: Integer);
     procedure pCarregaIndicadores;
+
+    procedure pAbreDocComercial(Sender: TComponent; Result: Integer);
   public
 
   end;
@@ -123,6 +125,27 @@ begin
     pFiltrarPor('USUARIONOME_I');
 
   pCarregaIndicadores;
+end;
+
+procedure TForm_BuscaPedido.pAbreDocComercial(Sender: TComponent;
+  Result: Integer);
+begin
+  if Result = mrYes then
+    begin
+      UniMainModule.vDocConsulta          := 'PEDIDO_ID;PEDIDO_CODIGO;COMERCIAL;';
+      UniMainModule.vDocConsultaParametro := qPedidoPEDIDO_ID.AsString +';' + qPedidoCODIGO.AsString+';S;';
+      UniMainModule.vDocCaption           := 'Arquivos Anexados do Pedido ' + qPedidoCODIGO.AsString + ' - COMERCIAL';
+
+      Form_Busca_Doc.ShowModal;
+    end
+  else
+    begin
+      UniMainModule.vDocConsulta          := 'PEDIDO_ID;PEDIDO_CODIGO;COMERCIAL;';
+      UniMainModule.vDocConsultaParametro := qPedidoPEDIDO_ID.AsString +';' + qPedidoCODIGO.AsString+';NULL;';
+      UniMainModule.vDocCaption           := 'Arquivos Anexados do Pedido ' + qPedidoCODIGO.AsString;
+
+      Form_Busca_Doc.ShowModal;
+    end;
 end;
 
 procedure TForm_BuscaPedido.pAprovarPedido(Sender: TComponent; Result: Integer);
@@ -350,6 +373,7 @@ begin
   if Column.Index = 4 then  // Anexos
     begin
       UniMainModule.vPedido_ID            := qPedidoPEDIDO_ID.AsString;
+      UniMainModule.vPedido_Codigo        := qPedidoCODIGO.AsString;
 
       UniMainModule.vDocConsulta          := 'PEDIDO_ID;PEDIDO_CODIGO;';
       UniMainModule.vDocConsultaParametro := qPedidoPEDIDO_ID.AsString +';' + qPedidoCODIGO.AsString+';';

@@ -6,9 +6,8 @@ object UniMainModule: TUniMainModule
   Height = 340
   Width = 616
   object IBDatabase1: TIBDatabase
-    DatabaseName = 
-      'localhost/3050:C:\Users\Administrador\Dropbox (C3Soft)\C3S\uniGU' +
-      'I\PedidosOnline\Dados\SICFAR_ONLINE.FDB'
+    Connected = True
+    DatabaseName = 'localhost/3050:C:\C3S\SICFAR_Beta\Dados\SICFAR.FDB'
     Params.Strings = (
       'user_name=SYSDBA'
       'password=masterkey'
@@ -21,6 +20,7 @@ object UniMainModule: TUniMainModule
     Top = 17
   end
   object IBTransaction1: TIBTransaction
+    Active = True
     DefaultDatabase = IBDatabase1
     DefaultAction = TACommitRetaining
     Params.Strings = (
@@ -380,11 +380,12 @@ object UniMainModule: TUniMainModule
       'CODIGO=CODIGO')
     DataSet = qOrcamento
     BCDToCurrency = False
+    DataSetOptions = []
     Left = 288
     Top = 16
   end
   object REL: TfrxReport
-    Version = '6.4.8'
+    Version = '2022.1.3'
     DotMatrixReport = False
     IniFile = '\Software\Fast Reports'
     PreviewOptions.Buttons = [pbPrint, pbLoad, pbSave, pbExport, pbZoom, pbFind, pbOutline, pbPageSetup, pbTools, pbEdit, pbNavigator, pbExportQuick]
@@ -430,6 +431,10 @@ object UniMainModule: TUniMainModule
       MirrorMode = []
       object PageHeader1: TfrxPageHeader
         FillType = ftBrush
+        FillGap.Top = 0
+        FillGap.Left = 0
+        FillGap.Bottom = 0
+        FillGap.Right = 0
         Frame.Typ = []
         Height = 68.031540000000000000
         Top = 18.897650000000000000
@@ -949,6 +954,10 @@ object UniMainModule: TUniMainModule
       end
       object PageFooter1: TfrxPageFooter
         FillType = ftBrush
+        FillGap.Top = 0
+        FillGap.Left = 0
+        FillGap.Bottom = 0
+        FillGap.Right = 0
         Frame.Typ = []
         Height = 15.118120000000000000
         Top = 665.197280000000000000
@@ -991,6 +1000,10 @@ object UniMainModule: TUniMainModule
       end
       object MasterData1: TfrxMasterData
         FillType = ftBrush
+        FillGap.Top = 0
+        FillGap.Left = 0
+        FillGap.Bottom = 0
+        FillGap.Right = 0
         Frame.Typ = []
         Height = 22.677180000000000000
         Top = 389.291590000000000000
@@ -1127,6 +1140,10 @@ object UniMainModule: TUniMainModule
       end
       object GrupoOrcamento: TfrxGroupHeader
         FillType = ftBrush
+        FillGap.Top = 0
+        FillGap.Left = 0
+        FillGap.Bottom = 0
+        FillGap.Right = 0
         Frame.Typ = []
         Height = 218.078715750000000000
         Top = 147.401670000000000000
@@ -1563,6 +1580,10 @@ object UniMainModule: TUniMainModule
       end
       object GroupFooter1: TfrxGroupFooter
         FillType = ftBrush
+        FillGap.Top = 0
+        FillGap.Left = 0
+        FillGap.Bottom = 0
+        FillGap.Right = 0
         Frame.Typ = []
         Height = 170.078850000000000000
         Top = 434.645950000000000000
@@ -1723,7 +1744,7 @@ object UniMainModule: TUniMainModule
     end
   end
   object REL_Pedido: TfrxReport
-    Version = '6.4.8'
+    Version = '2022.1.3'
     DotMatrixReport = False
     IniFile = '\Software\Fast Reports'
     PreviewOptions.Buttons = [pbPrint, pbLoad, pbSave, pbExport, pbZoom, pbFind, pbOutline, pbPageSetup, pbTools, pbEdit, pbNavigator, pbExportQuick]
@@ -1821,6 +1842,10 @@ object UniMainModule: TUniMainModule
       MirrorMode = []
       object PageHeader1: TfrxPageHeader
         FillType = ftBrush
+        FillGap.Top = 0
+        FillGap.Left = 0
+        FillGap.Bottom = 0
+        FillGap.Right = 0
         Frame.Typ = []
         Height = 94.488250000000000000
         Top = 18.897650000000000000
@@ -2357,6 +2382,10 @@ object UniMainModule: TUniMainModule
       end
       object PageFooter1: TfrxPageFooter
         FillType = ftBrush
+        FillGap.Top = 0
+        FillGap.Left = 0
+        FillGap.Bottom = 0
+        FillGap.Right = 0
         Frame.Typ = []
         Height = 15.118120000000000000
         Top = 812.598950000000000000
@@ -2402,6 +2431,10 @@ object UniMainModule: TUniMainModule
       end
       object MasterData1: TfrxMasterData
         FillType = ftBrush
+        FillGap.Top = 0
+        FillGap.Left = 0
+        FillGap.Bottom = 0
+        FillGap.Right = 0
         Frame.Typ = []
         Height = 22.677180000000000000
         Top = 476.220780000000000000
@@ -2519,6 +2552,10 @@ object UniMainModule: TUniMainModule
       end
       object GrupoOrcamento: TfrxGroupHeader
         FillType = ftBrush
+        FillGap.Top = 0
+        FillGap.Left = 0
+        FillGap.Bottom = 0
+        FillGap.Right = 0
         Frame.Typ = []
         Height = 278.551195750000000000
         Top = 173.858380000000000000
@@ -3007,6 +3044,10 @@ object UniMainModule: TUniMainModule
       end
       object GroupFooter3: TfrxGroupFooter
         FillType = ftBrush
+        FillGap.Top = 0
+        FillGap.Left = 0
+        FillGap.Bottom = 0
+        FillGap.Right = 0
         Frame.Typ = []
         Height = 230.551330000000000000
         Top = 521.575140000000000000
@@ -3220,6 +3261,10 @@ object UniMainModule: TUniMainModule
       MirrorMode = []
       object PageHeader2: TfrxPageHeader
         FillType = ftBrush
+        FillGap.Top = 0
+        FillGap.Left = 0
+        FillGap.Bottom = 0
+        FillGap.Right = 0
         Frame.Typ = []
         Height = 68.031540000000000000
         Top = 18.897650000000000000
@@ -3720,6 +3765,10 @@ object UniMainModule: TUniMainModule
       end
       object PageFooter2: TfrxPageFooter
         FillType = ftBrush
+        FillGap.Top = 0
+        FillGap.Left = 0
+        FillGap.Bottom = 0
+        FillGap.Right = 0
         Frame.Typ = []
         Height = 15.118120000000000000
         Top = 445.984540000000000000
@@ -3765,6 +3814,10 @@ object UniMainModule: TUniMainModule
       end
       object MasterData2: TfrxMasterData
         FillType = ftBrush
+        FillGap.Top = 0
+        FillGap.Left = 0
+        FillGap.Bottom = 0
+        FillGap.Right = 0
         Frame.Typ = []
         Height = 22.677180000000000000
         Top = 230.551330000000000000
@@ -3918,6 +3971,10 @@ object UniMainModule: TUniMainModule
       end
       object GroupHeader1: TfrxGroupHeader
         FillType = ftBrush
+        FillGap.Top = 0
+        FillGap.Left = 0
+        FillGap.Bottom = 0
+        FillGap.Right = 0
         Frame.Typ = []
         Height = 60.472462910000000000
         Top = 147.401670000000000000
@@ -4086,6 +4143,10 @@ object UniMainModule: TUniMainModule
       end
       object GroupFooter1: TfrxGroupFooter
         FillType = ftBrush
+        FillGap.Top = 0
+        FillGap.Left = 0
+        FillGap.Bottom = 0
+        FillGap.Right = 0
         Frame.Typ = []
         Height = 64.252010000000000000
         Top = 275.905690000000000000
@@ -4162,6 +4223,10 @@ object UniMainModule: TUniMainModule
       end
       object Footer1: TfrxFooter
         FillType = ftBrush
+        FillGap.Top = 0
+        FillGap.Left = 0
+        FillGap.Bottom = 0
+        FillGap.Right = 0
         Frame.Typ = []
         Height = 22.677180000000000000
         Top = 362.834880000000000000
@@ -4225,6 +4290,10 @@ object UniMainModule: TUniMainModule
       MirrorMode = []
       object PageHeader3: TfrxPageHeader
         FillType = ftBrush
+        FillGap.Top = 0
+        FillGap.Left = 0
+        FillGap.Bottom = 0
+        FillGap.Right = 0
         Frame.Typ = []
         Height = 94.488250000000000000
         Top = 18.897650000000000000
@@ -4725,6 +4794,10 @@ object UniMainModule: TUniMainModule
       end
       object GroupHeader2: TfrxGroupHeader
         FillType = ftBrush
+        FillGap.Top = 0
+        FillGap.Left = 0
+        FillGap.Bottom = 0
+        FillGap.Right = 0
         Frame.Typ = []
         Height = 41.574830000000000000
         Top = 173.858380000000000000
@@ -4830,6 +4903,10 @@ object UniMainModule: TUniMainModule
       end
       object MasterData3: TfrxMasterData
         FillType = ftBrush
+        FillGap.Top = 0
+        FillGap.Left = 0
+        FillGap.Bottom = 0
+        FillGap.Right = 0
         Frame.Typ = []
         Height = 18.897650000000000000
         Top = 238.110390000000000000
@@ -4942,6 +5019,10 @@ object UniMainModule: TUniMainModule
       end
       object GroupFooter2: TfrxGroupFooter
         FillType = ftBrush
+        FillGap.Top = 0
+        FillGap.Left = 0
+        FillGap.Bottom = 0
+        FillGap.Right = 0
         Frame.Typ = []
         Height = 34.015770000000000000
         Top = 279.685220000000000000
@@ -5024,6 +5105,10 @@ object UniMainModule: TUniMainModule
       end
       object PageFooter3: TfrxPageFooter
         FillType = ftBrush
+        FillGap.Top = 0
+        FillGap.Left = 0
+        FillGap.Bottom = 0
+        FillGap.Right = 0
         Frame.Typ = []
         Height = 22.677180000000000000
         Top = 419.527830000000000000
@@ -5106,6 +5191,10 @@ object UniMainModule: TUniMainModule
       end
       object ReportSummary1: TfrxReportSummary
         FillType = ftBrush
+        FillGap.Top = 0
+        FillGap.Left = 0
+        FillGap.Bottom = 0
+        FillGap.Right = 0
         Frame.Typ = []
         Height = 22.677180000000000000
         Top = 374.173470000000000000
@@ -5577,6 +5666,7 @@ object UniMainModule: TUniMainModule
       'EMPENHO_ANO=EMPENHO_ANO')
     DataSet = qPedido
     BCDToCurrency = False
+    DataSetOptions = []
     Left = 456
     Top = 112
   end
@@ -5614,6 +5704,8 @@ object UniMainModule: TUniMainModule
     ShowProgress = True
     OverwritePrompt = False
     DataOnly = False
+    EmbedFontsIfProtected = False
+    InteractiveFormsFontSubset = 'A-Z,a-z,0-9,#43-#47 '
     OpenAfterExport = False
     PrintOptimized = False
     Outline = False
@@ -5623,6 +5715,7 @@ object UniMainModule: TUniMainModule
     Transparency = False
     Author = 'FastReport'
     Subject = 'FastReport PDF export'
+    Creator = 'FastReport'
     ProtectionFlags = [ePrint, eModify, eCopy, eAnnot]
     HideToolbar = False
     HideMenubar = False
@@ -5779,6 +5872,7 @@ object UniMainModule: TUniMainModule
       'ERP_VENDEDOR=ERP_VENDEDOR')
     DataSet = qPedidoResumido
     BCDToCurrency = False
+    DataSetOptions = []
     Left = 536
     Top = 198
   end
@@ -5919,6 +6013,7 @@ object UniMainModule: TUniMainModule
       'CAMPO2=CAMPO2')
     DataSet = qPedidoAgrupado
     BCDToCurrency = False
+    DataSetOptions = []
     Left = 424
     Top = 264
   end

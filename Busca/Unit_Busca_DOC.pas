@@ -7,7 +7,8 @@ uses
   Controls, Forms, uniGUITypes, uniGUIAbstractClasses,
   uniGUIClasses, uniGUIForm, uniBasicGrid, uniDBGrid, uniGUIBaseClasses,
   uniPanel, Vcl.Imaging.pngimage, uniImage, Data.DB, IBX.IBCustomDataSet,
-  uniButton, uniFileUpload, uniMemo, uniLabel, uniBitBtn;
+  uniButton, uniFileUpload, uniMemo, uniLabel, uniBitBtn, uniMultiItem,
+  uniComboBox, uniEdit;
 
 type
   TForm_Busca_Doc = class(TUniForm)
@@ -44,6 +45,13 @@ type
     UniLabel11: TUniLabel;
     DS_DOCORCAMENTO_CODIGO: TIBStringField;
     DS_DOCORCAMENTO_ID: TIntegerField;
+    DS_DOCCOMERCIAL: TIBStringField;
+    DS_DOCACESSO: TStringField;
+    UniPanel3: TUniPanel;
+    UniLabel3: TUniLabel;
+    UniLabel4: TUniLabel;
+    pAcesso: TUniComboBox;
+    Edit_Pesq: TUniEdit;
     procedure UniFormShow(Sender: TObject);
     procedure UniDBGrid1CellClick(Column: TUniDBGridColumn);
     procedure btn_ConsultarClick(Sender: TObject);
@@ -51,13 +59,15 @@ type
     procedure DS_DOCDELETADOGetText(Sender: TField; var Text: string;
       DisplayText: Boolean);
     procedure DS_DOCCalcFields(DataSet: TDataSet);
+    procedure Edit_PesqChange(Sender: TObject);
+    procedure pAcessoSelect(Sender: TObject);
   private
     { Private declarations }
     procedure pCarregaArquivos;
     procedure pVisualizarArquivo(Sender: TComponent; Result: Integer);
     procedure pExcluirArquivo(Sender: TComponent; Result: Integer);
     procedure PromptCallBack(Sender: TComponent; AResult:Integer; AText: string);
-
+    procedure pAnexarDocComercial(Sender: TComponent; Result: Integer);
     var
     vlItemArquivo  : integer;
   public
@@ -128,8 +138,11 @@ begin
     begin
       if UniMainModule.fRetornaCampoTabela('STATUS','TBPEDIDO','PEDIDO_ID',UniMainModule.vPedido_ID) <> 'Aberto' then
         begin
-          MessageDlgN('Alteração Bloqueada. Pedido já Processado. Solicite ao Comercial', mtInformation, [mbOK]);
-          Abort;
+          if UniMainModule.fPerfilRotina(UniMainModule.vUsuarioID,'PED_DOC_COM') = False then
+            begin
+              MessageDlgN('Alteração Bloqueada. Pedido já Processado. Solicite ao Comercial', mtInformation, [mbOK]);
+              Abort;
+            end;
         end;
     end
   else
@@ -141,7 +154,13 @@ begin
         end;
     end;
 
+  if UniMainModule.fPerfilRotina(UniMainModule.vUsuarioID,'PED_DOC_COM') = True then
+    MessageDlg('Deseja Inserir Arquivo Exclusivo Para o Comercial?', mtConfirmation, mbYesNo, pAnexarDocComercial);
+
   UniFileUpload1.Execute;
+  UniMainModule.vDocConsulta          := 'PEDIDO_ID;PEDIDO_CODIGO;';
+  UniMainModule.vDocConsultaParametro := UniMainModule.vPedido_ID +';' + UniMainModule.vPedido_Codigo + ';';
+  pCarregaArquivos;
 end;
 
 procedure TForm_Busca_Doc.DS_DOCCalcFields(DataSet: TDataSet);
@@ -151,6 +170,11 @@ begin
   DS_DOCVISUALIZAR.AsString := UniMainModule.fImagemGrid('search-file.png','Visualizar Arquivo');
 
   DS_DOCIMG.AsString        := UniMainModule.fImagemTipoArquivo(DS_DOCEXTENSAO.AsString);
+
+  if Trim(DS_DOCCOMERCIAL.AsString) = '' then
+    DS_DOCACESSO.AsString := 'Todos'
+  else
+    DS_DOCACESSO.AsString := 'Comercial';
 end;
 
 procedure TForm_Busca_Doc.DS_DOCDELETADOGetText(Sender: TField;
@@ -162,6 +186,31 @@ begin
         Text := 'Incluído'
       else
         Text := 'Deletado';
+    end;
+end;
+
+procedure TForm_Busca_Doc.Edit_PesqChange(Sender: TObject);
+begin
+  pCarregaArquivos;
+end;
+
+procedure TForm_Busca_Doc.pAcessoSelect(Sender: TObject);
+begin
+  pCarregaArquivos;
+end;
+
+procedure TForm_Busca_Doc.pAnexarDocComercial(Sender: TComponent;
+  Result: Integer);
+begin
+  if Result = mrYes then
+    begin
+      UniMainModule.vDocConsulta          := 'PEDIDO_ID;PEDIDO_CODIGO;COMERCIAL;';
+      UniMainModule.vDocConsultaParametro := UniMainModule.vPedido_ID +';' + UniMainModule.vPedido_Codigo + ';S;';
+    end
+  else
+    begin
+      UniMainModule.vDocConsulta          := 'PEDIDO_ID;PEDIDO_CODIGO;';
+      UniMainModule.vDocConsultaParametro := UniMainModule.vPedido_ID +';' + UniMainModule.vPedido_Codigo + ';';
     end;
 end;
 
@@ -188,9 +237,18 @@ begin
       SelectSQl.Text := 'select doc_id, pedido_id, pedido_codigo, nome_arquivo, tamanho,';
       SelectSQL.Add(' extensao, item, caminho, usuario_i, usuarionome_i, data_inc,');
       SelectSQL.Add(' deletado, arquivo, usuario_d, usuarionome_d, data_del, dataware, ');
-      SelectSQL.Add(' documento, orcamento_codigo, orcamento_id');
+      SelectSQL.Add(' documento, orcamento_codigo, orcamento_id, comercial');
       SelectSQL.Add(' from tbdoc');
       SelectSQL.Add(' where 1=1');
+
+      if Trim(Edit_Pesq.Text) <> '' then
+        SelectSQL.Add(' and upper(nome_arquivo) like upper(''%' + Trim(Edit_Pesq.Text) + '%'') ');
+
+      if pAcesso.ItemIndex = 0 then
+        SelectSQL.Add(' and comercial is null');
+
+      if pAcesso.ItemIndex = 1 then
+        SelectSQL.Add(' and comercial = ''S'' ');
 
       for i := 1 to vlquant do
         begin
@@ -297,7 +355,7 @@ begin
     DS_Doc.SelectSQl.Text := 'select doc_id, pedido_id, pedido_codigo, nome_arquivo, tamanho,';
     DS_Doc.SelectSQL.Add(' extensao, item, caminho, usuario_i, usuarionome_i, data_inc,');
     DS_Doc.SelectSQL.Add(' deletado, arquivo, usuario_d, usuarionome_d, data_del, dataware, ');
-    DS_DOC.SelectSQL.Add(' documento, orcamento_codigo, orcamento_id');
+    DS_DOC.SelectSQL.Add(' documento, orcamento_codigo, orcamento_id, comercial');
     DS_Doc.SelectSQL.Add(' from tbdoc');
     DS_Doc.SelectSQL.Add(' where 0 = 0');
 
@@ -373,17 +431,29 @@ begin
 
     DS_DOC.Post;
     DS_DOC.Transaction.CommitRetaining;
-
-    pCarregaArquivos;
   finally
     FreeAndNil(FileStream);
     FreeAndNil(BlobStream);
+
+    UniMainModule.vDocConsulta          := 'PEDIDO_ID;PEDIDO_CODIGO;';
+    UniMainModule.vDocConsultaParametro := UniMainModule.vPedido_ID +';' + UniMainModule.vPedido_Codigo + ';';
+    pCarregaArquivos;
   end;
 end;
 
 procedure TForm_Busca_Doc.UniFormShow(Sender: TObject);
 begin
-  UniPanel1.Caption := UniMainModule.vDocCaption;
+  pAcesso.ItemIndex := 0;
+  Edit_Pesq.SetFocus;
+  Edit_Pesq.Clear;
+
+  if UniMainModule.fPerfilRotina(UniMainModule.vUsuarioID,'PED_DOC_COM') = True then
+    pAcesso.Enabled := True
+  else
+    pAcesso.Enabled := False;
+
+//  UniPanel1.Caption := UniMainModule.vDocCaption;
+  Label_Pedido.Caption := 'Consulta de Documentos - ' + UniMainModule.vDocCaption;
   pCarregaArquivos;
 end;
 
