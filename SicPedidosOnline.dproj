@@ -225,11 +225,6 @@
             <FormType>dfm</FormType>
             <DesignClass>TUniForm</DesignClass>
         </DCCReference>
-        <DCCReference Include="Busca\Unit_Busca_DOC.pas">
-            <Form>Form_Busca_Doc</Form>
-            <FormType>dfm</FormType>
-            <DesignClass>TUniForm</DesignClass>
-        </DCCReference>
         <DCCReference Include="Unit_Pedido_Status.pas">
             <Form>Form_Pedido_Status</Form>
             <FormType>dfm</FormType>
@@ -259,6 +254,11 @@
         <DCCReference Include="UFiltrosPedidoOnline.pas"/>
         <DCCReference Include="Unit_Pedido_Auditoria.pas">
             <Form>Form_Pedido_Auditoria</Form>
+            <FormType>dfm</FormType>
+            <DesignClass>TUniForm</DesignClass>
+        </DCCReference>
+        <DCCReference Include="Busca\Unit_Busca_DOC.pas">
+            <Form>Form_Busca_Doc</Form>
             <FormType>dfm</FormType>
             <DesignClass>TUniForm</DesignClass>
         </DCCReference>

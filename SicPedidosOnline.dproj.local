@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>2019/06/14 20:12:02.000.465,=C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\ServerModule.pas</Transaction>
     <Transaction>2019/06/14 20:12:02.000.572,=C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\MainModule.pas</Transaction>
+    <Transaction>2019/06/14 20:12:02.000.465,=C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\ServerModule.pas</Transaction>
     <Transaction>2019/06/14 20:12:05.000.444,=C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\Main.pas</Transaction>
     <Transaction>2019/06/14 20:13:51.000.733,=C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\Unit_Login.pas</Transaction>
     <Transaction>2019/06/14 20:29:32.000.971,=C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\Unit_Pedido.pas</Transaction>
@@ -22,8 +22,8 @@
     <Transaction>2019/07/27 09:53:07.000.893,=C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\Busca\Unit_Busca_Orcamento_Item_Preco.pas</Transaction>
     <Transaction>2019/07/27 11:34:43.000.122,=C:\Users\Administrador\Desktop\FARMACE\PEDIDOSONLINE\Unit_Orcamento_Auditoria.pas</Transaction>
     <Transaction>2019/08/05 15:07:41.000.771,=C:\Users\anderson.ti\Desktop\Desktop\Projetos Delphi\PEDIDOSONLINE\Unit1.pas</Transaction>
-    <Transaction>2019/08/05 15:09:04.000.695,C:\Users\anderson.ti\Desktop\Desktop\Projetos Delphi\PEDIDOSONLINE\Busca\Unit_Busca_DOC.pas=C:\Users\anderson.ti\Desktop\Desktop\Projetos Delphi\PEDIDOSONLINE\Unit1.pas</Transaction>
     <Transaction>2019/08/05 15:09:04.000.695,C:\Users\anderson.ti\Desktop\Desktop\Projetos Delphi\PEDIDOSONLINE\Busca\Unit_Busca_DOC.dfm=C:\Users\anderson.ti\Desktop\Desktop\Projetos Delphi\PEDIDOSONLINE\Unit1.dfm</Transaction>
+    <Transaction>2019/08/05 15:09:04.000.695,C:\Users\anderson.ti\Desktop\Desktop\Projetos Delphi\PEDIDOSONLINE\Busca\Unit_Busca_DOC.pas=C:\Users\anderson.ti\Desktop\Desktop\Projetos Delphi\PEDIDOSONLINE\Unit1.pas</Transaction>
     <Transaction>2019/08/13 14:01:50.000.712,=C:\Dropbox (C3Soft)\C3S\Biblioteca.pas</Transaction>
     <Transaction>2020/03/29 17:00:22.000.196,C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\SicPedidosOnline.dproj=C:\Dropbox (C3Soft)\C3S\SICFAR\PedidosOnline\PEDIDOSONLINE.dproj</Transaction>
     <Transaction>2020/04/25 21:49:31.000.738,=C:\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\Unit_Pedido_Status.pas</Transaction>
@@ -37,5 +37,11 @@
     <Transaction>2023/06/26 13:14:14.000.744,C:\Users\Administrador\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\UFiltrosPedidoVenda.pas=C:\Users\Administrador\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\Unit1.pas</Transaction>
     <Transaction>2023/06/26 13:19:21.000.930,C:\Users\Administrador\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\UFiltrosPedidoOnline.pas=C:\Users\Administrador\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\UFiltrosPedidoVenda.pas</Transaction>
     <Transaction>2023/10/31 16:10:20.000.363,=C:\Users\Administrador\Dropbox (C3Soft)\C3S\uniGUI\PedidosOnline\Unit_Pedido_Auditoria.pas</Transaction>
+    <Transaction>2025/11/25 16:03:55.000.000,C:\C3S\PedidosOnline\Busca\Unit_Busca_DOC.dfm=C:\C3S\PedidosOnline\Busca\Unit_Busca_DOC_bkp.dfm</Transaction>
+    <Transaction>2025/11/25 16:03:55.000.000,C:\C3S\PedidosOnline\Busca\Unit_Busca_DOC.pas=C:\C3S\PedidosOnline\Busca\Unit_Busca_DOC_bkp.pas</Transaction>
+    <Transaction>2025/11/25 16:06:21.933,C:\C3S\PedidosOnline\Busca\Unit_Busca_DOC_bkp.pas=</Transaction>
+    <Transaction>2025/11/25 16:06:50.704,=C:\C3S\PedidosOnline\Busca\Unit_Busca_DOC_bkp.pas</Transaction>
+    <Transaction>2025/11/25 16:07:49.516,C:\C3S\PedidosOnline\Busca\Unit_Busca_DOC.dfm=C:\C3S\PedidosOnline\Busca\Unit_Busca_DOC_bkp.dfm</Transaction>
+    <Transaction>2025/11/25 16:07:49.516,C:\C3S\PedidosOnline\Busca\Unit_Busca_DOC.pas=C:\C3S\PedidosOnline\Busca\Unit_Busca_DOC_bkp.pas</Transaction>
   </Transactions>
 </BorlandProject>

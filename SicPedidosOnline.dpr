@@ -19,7 +19,6 @@ uses
   Unit_Busca_Produto in 'Busca\Unit_Busca_Produto.pas' {Form_Busca_Produto: TUniForm},
   Unit_Busca_Orcamento_Item_Preco in 'Busca\Unit_Busca_Orcamento_Item_Preco.pas' {Form_Busca_Orcamento_Item_Preco: TUniForm},
   Unit_Orcamento_Auditoria in 'Unit_Orcamento_Auditoria.pas' {Form_Orcamento_Auditoria: TUniForm},
-  Unit_Busca_DOC in 'Busca\Unit_Busca_DOC.pas' {Form_Busca_Doc: TUniForm},
   Unit_Pedido_Status in 'Unit_Pedido_Status.pas' {Form_Pedido_Status: TUniForm},
   Unit_Busca_Tabela in 'Busca\Unit_Busca_Tabela.pas' {Form_Busca_Tabela: TUniForm},
   Unit_PedidoREL in 'Unit_PedidoREL.pas' {Form_PedidoREL: TUniForm},
@@ -27,7 +26,8 @@ uses
   Unit_Busca_Vendedor in 'Busca\Unit_Busca_Vendedor.pas' {Form_Busca_Vendedor: TUniForm},
   Biblioteca in 'Biblioteca.pas',
   UFiltrosPedidoOnline in 'UFiltrosPedidoOnline.pas',
-  Unit_Pedido_Auditoria in 'Unit_Pedido_Auditoria.pas' {Form_Pedido_Auditoria: TUniForm};
+  Unit_Pedido_Auditoria in 'Unit_Pedido_Auditoria.pas' {Form_Pedido_Auditoria: TUniForm},
+  Unit_Busca_DOC in 'Busca\Unit_Busca_DOC.pas' {Form_Busca_Doc: TUniForm};
 
 {$R *.res}
 
