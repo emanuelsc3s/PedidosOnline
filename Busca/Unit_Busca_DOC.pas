@@ -280,9 +280,10 @@ begin
         if not DS_DOC.IsEmpty then
           begin
             DS_DOC.Edit;
-            DS_DOCDELETADO.AsString := 'S';
-            DS_DOCDATA_DEL.AsDateTime := Now;
-            DS_DOCUSUARIO_D.AsString := UniMainModule.vUsuarioID;
+            DS_DOCDELETADO.AsString      := 'S';
+            DS_DOCDATA_DEL.AsDateTime    := Now;
+            DS_DOCUSUARIO_D.AsString     := UniMainModule.vUsuarioID;
+            DS_DOCUSUARIONOME_D.AsString := UniMainModule.vUsuario;
             DS_DOC.Post;
             DS_DOC.Transaction.CommitRetaining;
 
@@ -389,23 +390,24 @@ begin
 
     BlobStream.CopyFrom(FileStream, FileStream.Size);
 
-    DS_DocDOC_ID.AsString       := DS_DocDOC_ID.AsString + UniMainModule.vDataware;
-    DS_DOCDATAWARE.AsString     := UniMainModule.vDataware;
+    DS_DocDOC_ID.AsString        := DS_DocDOC_ID.AsString + UniMainModule.vDataware;
+    DS_DOCDATAWARE.AsString      := UniMainModule.vDataware;
 
-    DS_DOCNOME_ARQUIVO.AsString := Copy(ExtractFileName(UniFileUpload1.FileName),1,60);
-    DS_DOCEXTENSAO.AsString     := ExtractFileExt(UniFileUpload1.FileName);
-    DS_DOCNOME_ARQUIVO.AsString := Copy(StringReplace(DS_DOCNOME_ARQUIVO.AsString,DS_DOCEXTENSAO.AsString,'',[rfReplaceAll, rfIgnoreCase]),1,60);
+    DS_DOCNOME_ARQUIVO.AsString  := Copy(ExtractFileName(UniFileUpload1.FileName),1,60);
+    DS_DOCEXTENSAO.AsString      := ExtractFileExt(UniFileUpload1.FileName);
+    DS_DOCNOME_ARQUIVO.AsString  := Copy(StringReplace(DS_DOCNOME_ARQUIVO.AsString,DS_DOCEXTENSAO.AsString,'',[rfReplaceAll, rfIgnoreCase]),1,60);
 
-    DS_DOCCAMINHO.AsString      := DestFolder;
-    DS_DOCTAMANHO.AsInteger     := FileStream.Size;
-    DS_DOCITEM.AsString         := FormatFloat('000', vlItem);
-    DS_DocCAMINHO.AsString      := ExtractFileDir(UniFileUpload1.FileName);
-    DS_DOCUSUARIO_I.AsString    := UniMainModule.vUsuarioID;
-    DS_DOCDATA_INC.AsDateTime   := Now;
-    DS_DOCDELETADO.AsString     := 'N';
-    DS_DOCUSUARIO_I.AsString    := UniMainModule.vUsuarioID;
-    DS_DOCDATA_INC.AsDateTime   := Now;
-    DS_DocDELETADO.AsString     := 'N';
+    DS_DOCCAMINHO.AsString       := DestFolder;
+    DS_DOCTAMANHO.AsInteger      := FileStream.Size;
+    DS_DOCITEM.AsString          := FormatFloat('000', vlItem);
+    DS_DocCAMINHO.AsString       := ExtractFileDir(UniFileUpload1.FileName);
+    DS_DOCUSUARIO_I.AsString     := UniMainModule.vUsuarioID;
+    DS_DOCDATA_INC.AsDateTime    := Now;
+    DS_DOCDELETADO.AsString      := 'N';
+    DS_DOCUSUARIO_I.AsString     := UniMainModule.vUsuarioID;
+    DS_DOCUSUARIONOME_I.AsString := UniMainModule.vUsuario;
+    DS_DOCDATA_INC.AsDateTime    := Now;
+    DS_DocDELETADO.AsString      := 'N';
 
     // GRAVA PEDIDO_ID e PEDIDO_CODIGO Informados na Unit_BuscaPedido
     vlCampoAux     := UniMainModule.vDocConsulta;

@@ -2,7 +2,7 @@ object Form_Busca_Doc: TForm_Busca_Doc
   Left = 0
   Top = 0
   ClientHeight = 461
-  ClientWidth = 859
+  ClientWidth = 1008
   Caption = 'Consulta de Documentos'
   OnShow = UniFormShow
   OldCreateOrder = False
@@ -12,8 +12,8 @@ object Form_Busca_Doc: TForm_Busca_Doc
   TextHeight = 13
   object UniDBGrid1: TUniDBGrid
     Left = 8
-    Top = 121
-    Width = 843
+    Top = 122
+    Width = 992
     Height = 285
     Hint = ''
     DataSource = DataSource1
@@ -87,6 +87,13 @@ object Form_Busca_Doc: TForm_Busca_Doc
         Font.Color = 12287488
       end
       item
+        FieldName = 'USUARIONOME_I'
+        Title.Caption = 'Inclu'#237'do por'
+        Title.Font.Color = 12287488
+        Title.Font.Name = 'Verdana'
+        Width = 150
+      end
+      item
         FieldName = 'DATA_INC'
         Title.Caption = 'Inclus'#227'o'
         Title.Font.Color = 12287488
@@ -106,7 +113,7 @@ object Form_Busca_Doc: TForm_Busca_Doc
   object UniPanel2: TUniPanel
     Left = 0
     Top = 413
-    Width = 859
+    Width = 1008
     Height = 48
     Hint = ''
     Align = alBottom
@@ -118,7 +125,7 @@ object Form_Busca_Doc: TForm_Busca_Doc
     TabOrder = 1
     Alignment = taRightJustify
     Caption = ''
-    ExplicitTop = 319
+    ExplicitWidth = 859
     object btn_Consultar: TUniButton
       Left = 3
       Top = 12
@@ -141,7 +148,7 @@ object Form_Busca_Doc: TForm_Busca_Doc
   object UniPanel1: TUniPanel
     Left = 0
     Top = 0
-    Width = 859
+    Width = 1008
     Height = 65
     Hint = ''
     Align = alTop
@@ -149,6 +156,7 @@ object Form_Busca_Doc: TForm_Busca_Doc
     BorderStyle = ubsNone
     Caption = ''
     Color = 12477460
+    ExplicitWidth = 859
     object UniBitBtn1: TUniBitBtn
       Left = 14
       Top = 4
@@ -199,7 +207,7 @@ object Form_Busca_Doc: TForm_Busca_Doc
   object UniPanel3: TUniPanel
     Left = 0
     Top = 65
-    Width = 859
+    Width = 1008
     Height = 54
     Hint = ''
     Align = alTop
@@ -211,6 +219,7 @@ object Form_Busca_Doc: TForm_Busca_Doc
     TabOrder = 3
     Alignment = taRightJustify
     Caption = ''
+    ExplicitWidth = 859
     object UniLabel3: TUniLabel
       Left = 338
       Top = 4
